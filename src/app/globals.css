@@ -1,0 +1,195 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+ * Design tokens. Brand: teal #0EA5A4 (brand-500), blue #2563EB (blue-600),
+ * coral #F97316 (orange-500). Text on teal uses brand-700+ to meet WCAG AA.
+ */
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-jakarta), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand-50: #eefbfa;
+  --color-brand-100: #d3f4f2;
+  --color-brand-200: #a8e8e5;
+  --color-brand-300: #6fd6d3;
+  --color-brand-400: #2fc0be;
+  --color-brand-500: #0ea5a4;
+  --color-brand-600: #0b8786;
+  --color-brand-700: #0c6c6c;
+  --color-brand-800: #0f5757;
+  --color-brand-900: #114848;
+  --color-brand-950: #042c2d;
+
+  --color-coral-50: #fff4ed;
+  --color-coral-100: #ffe6d4;
+  --color-coral-500: #f97316;
+  --color-coral-600: #ea580c;
+  --color-coral-700: #c2410c;
+  --color-coral-800: #9a3412;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-danger: var(--danger);
+
+  --radius-xl: 1rem;
+  --radius-2xl: 1.25rem;
+  --radius-3xl: 1.75rem;
+
+  --shadow-soft: 0 1px 2px rgb(15 42 46 / 0.04), 0 8px 24px -8px rgb(15 42 46 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(15 42 46 / 0.05), 0 20px 40px -12px rgb(15 42 46 / 0.2);
+
+  --animate-marquee: marquee 40s linear infinite;
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+}
+
+:root {
+  color-scheme: light;
+  --background: #f7fbfb;
+  --foreground: #0f2a2e;
+  --surface: #ffffff;
+  --surface-2: #eef6f6;
+  --muted: #e6efef;
+  --muted-foreground: #4f6b70;
+  --border: #d6e4e5;
+  --ring: #0ea5a4;
+  --primary: #0c6c6c;
+  --primary-foreground: #ffffff;
+  --secondary: #2563eb;
+  --secondary-foreground: #ffffff;
+  --accent: #f97316;
+  --accent-foreground: #ffffff;
+  --danger: #dc2626;
+}
+
+.dark {
+  color-scheme: dark;
+  --background: #0a1517;
+  --foreground: #e4f0f0;
+  --surface: #11201f;
+  --surface-2: #152a2b;
+  --muted: #1b3132;
+  --muted-foreground: #94adb1;
+  --border: #24393b;
+  --ring: #2fc0be;
+  --primary: #2fc0be;
+  --primary-foreground: #042c2d;
+  --secondary: #6e9bff;
+  --secondary-foreground: #0a1517;
+  --accent: #ff9a55;
+  --accent-foreground: #1f1208;
+  --danger: #f87171;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  /* Grid items may shrink below their content (tables, charts) instead of widening the page. */
+  .grid > * {
+    min-width: 0;
+  }
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* Department accent as text. Raw accents (yellow, sky, mint) are too light to read,
+   so the colour is mixed toward black (light theme) or white (dark theme) for WCAG AA. */
+.text-dept {
+  color: color-mix(in oklab, var(--dept, var(--primary)) 62%, #000);
+}
+.dark .text-dept {
+  color: color-mix(in oklab, var(--dept, var(--primary)) 55%, #fff);
+}
+
+@keyframes accordion-down {
+  from { height: 0; }
+  to { height: var(--radix-accordion-content-height); }
+}
+@keyframes accordion-up {
+  from { height: var(--radix-accordion-content-height); }
+  to { height: 0; }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slide-in-right {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+@keyframes slide-in-left {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
+}
+@keyframes menu-in {
+  from { opacity: 0; transform: translateY(-6px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@utility container-page {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 80rem;
+  padding-inline: 1rem;
+  @media (width >= 40rem) { padding-inline: 1.5rem; }
+  @media (width >= 64rem) { padding-inline: 2rem; }
+}
+
+@utility bg-grid {
+  background-image:
+    linear-gradient(to right, rgb(14 165 164 / 0.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(14 165 164 / 0.07) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+}
+
+@keyframes dialog-in {
+  from { opacity: 0; transform: translate(-50%, -48%) scale(0.97); }
+  to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+}
