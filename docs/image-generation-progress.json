@@ -1,0 +1,2000 @@
+{
+  "completed": [
+    {
+      "path": "hero/home-hero.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-562ede23-ee27-4dd0-bea3-041d04411464.png"
+    },
+    {
+      "path": "hero/home-hero-alt.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0b4c9bf9-6f1b-412e-9fe7-b933eb6ebb1e.png"
+    },
+    {
+      "path": "hero/emergency.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1823922b-a756-41ff-a3bc-1197c1797d9a.png"
+    },
+    {
+      "path": "hero/services.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-bc71578f-9e30-4a2b-93b8-bf4c876b79fb.png"
+    },
+    {
+      "path": "hero/doctors.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9b5d35a4-78c2-4811-9a34-c742cbef66d5.png"
+    },
+    {
+      "path": "hero/marketplace.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b4f5bbae-55a3-441b-a7e1-de85b1a063ab.png"
+    },
+    {
+      "path": "hero/contact.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4481c3d9-7379-491e-8ed6-833d9cb69087.png"
+    },
+    {
+      "path": "about/team-meeting.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9916997e-a4ad-418f-8b06-0eff4cbd7a3c.png"
+    },
+    {
+      "path": "about/patient-care.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d1094d9e-9c04-4706-b63a-1ea5dc5d93ce.png"
+    },
+    {
+      "path": "about/lab.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-08aa404f-b565-432a-8606-cd4f8c851679.png"
+    },
+    {
+      "path": "departments/emergency.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e27501a2-70aa-489f-84ca-6c3b3c2b8a68.png"
+    },
+    {
+      "path": "departments/icu.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e0e29e9c-acc1-4a5a-9f19-99b19bb68798.png"
+    },
+    {
+      "path": "departments/cardiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-40b561ff-f644-46a2-8ecb-b8455fe53a68.png"
+    },
+    {
+      "path": "departments/neurology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1308b36d-a097-4c60-8df9-dd7067625f52.png"
+    },
+    {
+      "path": "departments/internal-medicine.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c4f66c79-dc56-4ee5-b15e-ec22ab73f8af.png"
+    },
+    {
+      "path": "departments/general-surgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-62bbe5dc-2923-4ce8-a469-381d543c97bf.png"
+    },
+    {
+      "path": "departments/orthopedics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-31957635-742d-48be-8da6-7c3c12a25295.png"
+    },
+    {
+      "path": "departments/obstetrics-gynecology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-f8590f75-9a1d-43be-bffd-d0a8c27eb7b7.png"
+    },
+    {
+      "path": "departments/pediatrics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-03364c20-f59b-4d44-8ef8-3914411372ba.png"
+    },
+    {
+      "path": "departments/radiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ffbdcd2c-38ec-4382-b7c2-ea4becf10312.png"
+    },
+    {
+      "path": "icons/departments/emergency.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1370f84f-716b-4ee3-857b-d5db04059404.png"
+    },
+    {
+      "path": "icons/departments/icu.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ce311e26-3d8b-42d2-8508-d4ec54557a87.png"
+    },
+    {
+      "path": "icons/departments/anesthesiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e0215994-b62c-417b-a7a0-851c2dcdec81.png"
+    },
+    {
+      "path": "about/technology.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d6075890-5abf-45da-b26e-37a0f93b2e6e.png"
+    },
+    {
+      "path": "icons/departments/cardiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3be99f5b-df03-4302-bcaf-43aeabca61d1.png"
+    },
+    {
+      "path": "icons/departments/neurology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-aa1be80e-7aef-42f9-b152-3c7897488ebf.png"
+    },
+    {
+      "path": "icons/departments/gastroenterology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a61716b9-7e1f-4964-aca9-9d05e8e125aa.png"
+    },
+    {
+      "path": "icons/departments/pulmonology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-12816b61-2d5b-4379-88a6-f1c4056b4f71.png"
+    },
+    {
+      "path": "icons/departments/nephrology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8cb5d1a8-e7bf-4bf2-a644-16e647491b78.png"
+    },
+    {
+      "path": "icons/departments/endocrinology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5089f3ee-aa4a-4c4d-9c57-13c66f4a9056.png"
+    },
+    {
+      "path": "icons/departments/internal-medicine.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-59a1e1c0-3cdf-4e47-9b02-a21d21d91d5f.png"
+    },
+    {
+      "path": "icons/departments/general-surgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a3708efb-7b91-497c-b997-d91d10deac95.png"
+    },
+    {
+      "path": "icons/departments/orthopedics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7b810fca-36a6-43c0-898a-89ed0ad9ac0c.png"
+    },
+    {
+      "path": "icons/departments/neurosurgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3eecbe0f-3366-45b7-92ee-63ed7af051e9.png"
+    },
+    {
+      "path": "icons/departments/urology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-cf0c2c55-ba65-4dd2-a25b-d8031ea1ee94.png"
+    },
+    {
+      "path": "icons/departments/plastic-surgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-02297f2c-8b15-48fb-849a-b90c62d3b4f9.png"
+    },
+    {
+      "path": "icons/departments/obstetrics-gynecology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-65767f73-89c8-4b07-95b5-920a935ba464.png"
+    },
+    {
+      "path": "icons/departments/pediatrics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-16c0d2ea-ec14-4fd3-a096-79f978491a38.png"
+    },
+    {
+      "path": "icons/departments/neonatology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-790f436b-6a17-4a0e-a426-1d4c2e306b0a.png"
+    },
+    {
+      "path": "icons/departments/oncology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ddc0d764-0771-4c1d-aaf6-a63c6e410583.png"
+    },
+    {
+      "path": "icons/departments/dermatology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3f7a53fd-3a11-4267-b6dc-c872812e6901.png"
+    },
+    {
+      "path": "icons/departments/ent.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-058c4c95-3f17-43ce-a63c-e80551bc716a.png"
+    },
+    {
+      "path": "icons/departments/ophthalmology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e9e13997-b77e-4faa-91d4-0b852e298853.png"
+    },
+    {
+      "path": "icons/departments/psychiatry.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0fce2217-f536-45db-8e87-ebc336df65b8.png"
+    },
+    {
+      "path": "icons/departments/dentistry.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9d2b7756-41e0-4972-9725-a9b0b89442ac.png"
+    },
+    {
+      "path": "icons/departments/radiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d711a923-24fe-4ca6-a2c5-a1af16b652ce.png"
+    },
+    {
+      "path": "icons/departments/pathology-lab.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c029a326-3916-491c-9f6b-7e5b6d1726b5.png"
+    },
+    {
+      "path": "icons/departments/pharmacy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4797e08b-0fd7-475c-9860-708d6cf607d8.png"
+    },
+    {
+      "path": "icons/departments/physiotherapy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-caa59ac6-b4cb-407d-9c91-9832b7562e06.png"
+    },
+    {
+      "path": "icons/departments/nutrition.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-536c374a-7c1f-4cd3-9580-115f4b425c9f.png"
+    },
+    {
+      "path": "doctors/dr-01.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e0bfe40e-a37a-4a3c-af0d-f326b656d334.png"
+    },
+    {
+      "path": "doctors/dr-02.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e7710f15-bdff-4775-ad68-27cb6a1ff23b.png"
+    },
+    {
+      "path": "doctors/dr-03.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-19552743-beaf-431d-b774-44dfab4a926a.png"
+    },
+    {
+      "path": "doctors/dr-04.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-818bd748-7350-41b7-aa73-402a8bb86ae7.png"
+    },
+    {
+      "path": "doctors/dr-05.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a13fbf84-6d84-4cfa-982d-bfb8813424ac.png"
+    },
+    {
+      "path": "doctors/dr-06.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-941491a0-1bdd-44d1-a2b2-4d9d15609a17.png"
+    },
+    {
+      "path": "marketplace/banners/banner-checkup.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5c52271d-5ff9-44fe-acdf-04c95f008fbb.png"
+    },
+    {
+      "path": "marketplace/banners/banner-pharmacy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-90af1a8b-f2fd-4c40-8f70-ddab33319af7.png"
+    },
+    {
+      "path": "marketplace/banners/banner-devices.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0871afb4-db87-409a-a3a1-699f59a05dc1.png"
+    },
+    {
+      "path": "marketplace/banners/banner-home-lab.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3521c25f-e4b9-42de-b48b-d1866c46da0a.png"
+    },
+    {
+      "path": "marketplace/banners/banner-flash-sale.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-656b1875-c878-4dd5-993b-6800e01fc595.png"
+    },
+    {
+      "path": "marketplace/banners/banner-telemedicine.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7f4d8b57-9088-4715-9471-4b188c9f82b4.png"
+    },
+    {
+      "path": "marketplace/banners/banner-wellness.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-afc58872-c809-45fb-9465-96ce4b6562fc.png"
+    },
+    {
+      "path": "marketplace/categories/lab-tests.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-2d8d579e-fd71-4b62-a2fe-dfc788085d28.png"
+    },
+    {
+      "path": "marketplace/categories/health-packages.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-884a7b6c-fbf2-48f5-8f58-75531f7c30e8.png"
+    },
+    {
+      "path": "marketplace/categories/pharmacy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-98625214-7945-4303-91f2-8846fe636705.png"
+    },
+    {
+      "path": "marketplace/categories/medical-devices.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-521b26af-0570-4e63-ac5c-64655cfd30fd.png"
+    },
+    {
+      "path": "marketplace/categories/mobility.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e55485bd-a377-4633-aed9-548cd37074e0.png"
+    },
+    {
+      "path": "marketplace/categories/consultations.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b884a390-e6c9-4b0c-b008-e3387bdcc925.png"
+    },
+    {
+      "path": "marketplace/categories/wellness.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-89529077-0a8c-451f-a86a-452c0a3aa9c0.png"
+    },
+    {
+      "path": "marketplace/categories/mother-baby.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fe1f7fb6-c7e3-475a-a926-6a897067ff81.png"
+    },
+    {
+      "path": "marketplace/categories/personal-care.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4085581f-4689-44da-bcb6-78badc2cf785.png"
+    },
+    {
+      "path": "marketplace/categories/first-aid.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-89084a1d-bd85-4363-8403-2580d6d8a826.png"
+    },
+    {
+      "path": "marketplace/products/bp-monitor.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7b646e59-5ec0-41d0-be55-b991bb8c91a1.png"
+    },
+    {
+      "path": "marketplace/products/glucometer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9fd29113-7600-44e5-bcfc-29949654a0c2.png"
+    },
+    {
+      "path": "marketplace/products/pulse-oximeter.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-77947eb9-7531-41eb-85e8-cf6066b98dfe.png"
+    },
+    {
+      "path": "marketplace/products/thermometer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-346e0353-8dd2-4980-8c90-6d00b4968c28.png"
+    },
+    {
+      "path": "marketplace/products/nebulizer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c6107ff5-9cb2-4318-95a6-22b8866ac4a9.png"
+    },
+    {
+      "path": "marketplace/products/stethoscope.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-558056c3-f426-4127-b047-e6d023226d47.png"
+    },
+    {
+      "path": "marketplace/products/weight-scale.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3b7a488e-b1bc-4703-89a5-af0b3774cf26.png"
+    },
+    {
+      "path": "marketplace/products/heating-pad.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1ef7a5e0-a67d-47e3-a78d-482bfae1d6c5.png"
+    },
+    {
+      "path": "marketplace/products/knee-brace.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-bd00743e-16f9-4848-919f-26728e57cc79.png"
+    },
+    {
+      "path": "marketplace/products/back-support.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1426f470-3a58-43d8-bab1-cabaaebdd623.png"
+    },
+    {
+      "path": "marketplace/products/wheelchair.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fe7524f4-8d9d-4058-ba68-7ac01a2e83ba.png"
+    },
+    {
+      "path": "marketplace/products/walker.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-956d5e5d-9bb8-4c18-bd46-6b8e4135d5e3.png"
+    },
+    {
+      "path": "marketplace/products/crutches.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a11ebf75-b9c5-4a9d-a23b-765915516e4e.png"
+    },
+    {
+      "path": "marketplace/products/hospital-bed.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9d3086ce-ddb1-4c37-9886-7b31c53679f2.png"
+    },
+    {
+      "path": "marketplace/products/first-aid-kit.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ffdbee31-16f2-4d33-b9d0-6bcaea14e912.png"
+    },
+    {
+      "path": "departments/anesthesiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-531ba4bc-640a-40a4-8690-d35f30aaafe9.png"
+    },
+    {
+      "path": "departments/gastroenterology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-26d5775d-8402-4549-bd8a-59d8f25f365d.png"
+    },
+    {
+      "path": "departments/pulmonology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3e9cd7b9-2f04-447e-bd5c-d77a425547cd.png"
+    },
+    {
+      "path": "departments/nephrology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-976ead9c-1db7-4555-afa5-7a6cf89ff6ee.png"
+    },
+    {
+      "path": "departments/endocrinology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-873a8365-0d95-4a95-b58b-1ccd349c841c.png"
+    },
+    {
+      "path": "departments/neurosurgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-86d9ae5d-6f0c-4c25-bb67-1e3c8dd95d85.png"
+    },
+    {
+      "path": "departments/urology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-37835386-b6f9-4163-82ac-481f98d03f2d.png"
+    },
+    {
+      "path": "departments/plastic-surgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c5279557-8684-4961-a3e8-42cab4484405.png"
+    },
+    {
+      "path": "departments/neonatology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-74a46705-c8c6-4668-85bd-bd45f15e6106.png"
+    },
+    {
+      "path": "departments/oncology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0fe8f58e-f444-4d5d-87f3-4f566e869fa7.png"
+    },
+    {
+      "path": "departments/dermatology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-85dc1f1c-7933-4bcc-9cce-93f1a338b04f.png"
+    },
+    {
+      "path": "departments/ent.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3d09d023-2af4-4ae3-95c0-97eb10a6efd2.png"
+    },
+    {
+      "path": "departments/ophthalmology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9cb03b33-79fa-4bf7-9432-959c02da3650.png"
+    },
+    {
+      "path": "departments/psychiatry.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5fa3aff8-c410-45a2-a248-3a5eeb434524.png"
+    },
+    {
+      "path": "departments/dentistry.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9164b93a-23f8-4185-91b6-1207a7d4375a.png"
+    },
+    {
+      "path": "departments/pathology-lab.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7a94d5b5-c180-4af1-b53f-c03d3b01fe1a.png"
+    },
+    {
+      "path": "departments/pharmacy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-21920bf5-6468-4d73-82dd-08066adc4dee.png"
+    },
+    {
+      "path": "departments/physiotherapy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-db0fed2d-8005-4667-baf9-5b3a54b2a0ed.png"
+    },
+    {
+      "path": "departments/nutrition.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0d1bb73d-59c9-4dd2-9ccc-34a7f67a88a5.png"
+    },
+    {
+      "path": "doctors/dr-07.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-6e6c8e54-3e78-40ec-bea1-051359205c5f.png"
+    },
+    {
+      "path": "doctors/dr-08.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ccadd2bd-75f8-4db4-8a9e-50693936162c.png"
+    },
+    {
+      "path": "doctors/dr-09.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-398cb727-9e63-4e05-bd32-2750d20311de.png"
+    },
+    {
+      "path": "doctors/dr-10.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b9394c54-d23b-47ea-a365-1ceb4f91ad4c.png"
+    },
+    {
+      "path": "doctors/dr-11.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7e72b906-6a20-420e-9c1c-a4500b77f2b5.png"
+    },
+    {
+      "path": "doctors/dr-12.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-77978597-2a2a-45d6-abb5-f0c850a3d2ee.png"
+    },
+    {
+      "path": "dashboard/avatar-02.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-df106db2-c1e4-46b9-9fea-19dba8e06095.png"
+    },
+    {
+      "path": "dashboard/avatar-03.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e625016f-ac8d-4e79-9409-6b7a96f16269.png"
+    },
+    {
+      "path": "dashboard/avatar-01.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1036dcd1-d01b-4b7d-a7d5-6e37617bae0a.png"
+    },
+    {
+      "path": "dashboard/avatar-04.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8343bd3d-69c3-4930-af0f-c8130f5a1435.png"
+    },
+    {
+      "path": "dashboard/avatar-05.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-57f75940-0ad7-448d-a8c5-56785068f0d7.png"
+    },
+    {
+      "path": "dashboard/avatar-07.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-2c31af8e-08bd-4c9a-90fe-0d2558d704b6.png"
+    },
+    {
+      "path": "dashboard/avatar-08.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-123b4d5c-50be-48d0-bfdf-8b8246511862.png"
+    },
+    {
+      "path": "marketplace/products/face-masks.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3eeee1ba-46fb-4ca2-bb3c-ad9fa2b4ce48.png"
+    },
+    {
+      "path": "marketplace/products/sanitizer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8b6f2617-63d8-4aaa-849b-2a2331db46ca.png"
+    },
+    {
+      "path": "marketplace/products/vitamins.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-05c0eb94-573b-4c90-b816-d2bfd9779993.png"
+    },
+    {
+      "path": "marketplace/products/omega3.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3a1f90ae-07fa-40ac-8659-a38c6cec32ac.png"
+    },
+    {
+      "path": "marketplace/products/protein.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4f5d7576-b2bd-40a7-af29-353acecf1519.png"
+    },
+    {
+      "path": "marketplace/products/pain-relief.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0616d776-4833-4b52-b8c6-2a0d4f24977c.png"
+    },
+    {
+      "path": "marketplace/products/cough-syrup.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-63668b14-bab8-4b40-9a07-cd79184b37e2.png"
+    },
+    {
+      "path": "marketplace/products/pill-organizer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3d58da27-b8af-4359-b1da-aabf94b2ff2b.png"
+    },
+    {
+      "path": "marketplace/products/baby-formula.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-00928727-2f80-4632-8947-8af960d98eb7.png"
+    },
+    {
+      "path": "marketplace/products/baby-thermometer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-bd6444c8-55fe-4839-b926-815dac68daf9.png"
+    },
+    {
+      "path": "dashboard/avatar-06.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ad2c0909-2baf-4f04-a34e-ed920538f8db.png"
+    },
+    {
+      "path": "marketplace/products/gloves.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b27a6af0-05c0-42f5-b813-54070c256f65.png"
+    }
+  ],
+  "variants": [
+    {
+      "path": "hero/home-hero.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b68c7991-4713-4624-9936-e7ee9e32b040.png"
+    },
+    {
+      "path": "hero/home-hero-alt.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-06778e9f-7059-4930-b560-ac50d0bfcf65.png"
+    },
+    {
+      "path": "hero/home-hero-alt.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0b4c9bf9-6f1b-412e-9fe7-b933eb6ebb1e.png"
+    },
+    {
+      "path": "hero/emergency.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5336cd7c-4702-4097-acd8-3525e9311127.png"
+    },
+    {
+      "path": "hero/emergency.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1823922b-a756-41ff-a3bc-1197c1797d9a.png"
+    },
+    {
+      "path": "hero/services.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-045d2dd5-f23e-4826-94b8-0c0922bb2675.png"
+    },
+    {
+      "path": "hero/services.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-bc71578f-9e30-4a2b-93b8-bf4c876b79fb.png"
+    },
+    {
+      "path": "hero/doctors.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9b5d35a4-78c2-4811-9a34-c742cbef66d5.png"
+    },
+    {
+      "path": "hero/doctors.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-08775b6b-d53a-48a0-9ef7-ce8847971768.png"
+    },
+    {
+      "path": "hero/marketplace.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b4f5bbae-55a3-441b-a7e1-de85b1a063ab.png"
+    },
+    {
+      "path": "hero/marketplace.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-69072584-3a21-41c8-a18e-c36a70c27b38.png"
+    },
+    {
+      "path": "hero/contact.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d8c23c10-e30b-4e91-a313-2802876ceadb.png"
+    },
+    {
+      "path": "hero/contact.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4481c3d9-7379-491e-8ed6-833d9cb69087.png"
+    },
+    {
+      "path": "about/team-meeting.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-39f70599-82c8-4cb0-9662-fd0f0f3a52bc.png"
+    },
+    {
+      "path": "about/team-meeting.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9916997e-a4ad-418f-8b06-0eff4cbd7a3c.png"
+    },
+    {
+      "path": "about/technology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-cb8b036f-6e74-4074-8a06-8b62e2f04351.png"
+    },
+    {
+      "path": "about/technology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-910cfc1d-c661-48e9-ac68-b49b555e539f.png"
+    },
+    {
+      "path": "about/patient-care.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d1094d9e-9c04-4706-b63a-1ea5dc5d93ce.png"
+    },
+    {
+      "path": "about/patient-care.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5e8bed18-ce85-4e26-99c5-04b4c57e7c5f.png"
+    },
+    {
+      "path": "about/lab.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-71f4af8e-dd31-413f-9615-e7014354e395.png"
+    },
+    {
+      "path": "about/lab.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-08aa404f-b565-432a-8606-cd4f8c851679.png"
+    },
+    {
+      "path": "departments/emergency.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e27501a2-70aa-489f-84ca-6c3b3c2b8a68.png"
+    },
+    {
+      "path": "departments/emergency.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8417c266-06e2-42d5-8e04-5f6d2992a137.png"
+    },
+    {
+      "path": "departments/icu.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b925f6ad-65c5-45e3-b804-184b8c7bc656.png"
+    },
+    {
+      "path": "departments/icu.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e0e29e9c-acc1-4a5a-9f19-99b19bb68798.png"
+    },
+    {
+      "path": "departments/cardiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-40b561ff-f644-46a2-8ecb-b8455fe53a68.png"
+    },
+    {
+      "path": "departments/cardiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-365686c0-479c-4a84-bf66-03e18e9ad5a9.png"
+    },
+    {
+      "path": "departments/neurology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1ba7b737-db41-4af2-9d42-d5c7203dd270.png"
+    },
+    {
+      "path": "departments/neurology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1308b36d-a097-4c60-8df9-dd7067625f52.png"
+    },
+    {
+      "path": "departments/internal-medicine.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c7637bd8-e034-4daf-aafa-af75904a57f0.png"
+    },
+    {
+      "path": "departments/internal-medicine.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c4f66c79-dc56-4ee5-b15e-ec22ab73f8af.png"
+    },
+    {
+      "path": "departments/general-surgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-62bbe5dc-2923-4ce8-a469-381d543c97bf.png"
+    },
+    {
+      "path": "departments/general-surgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b60c9eb0-933d-457d-8694-bc8aca4449bc.png"
+    },
+    {
+      "path": "departments/orthopedics.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-2e3d466a-1940-47a6-80a6-dc990405ca04.png"
+    },
+    {
+      "path": "departments/orthopedics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-31957635-742d-48be-8da6-7c3c12a25295.png"
+    },
+    {
+      "path": "departments/obstetrics-gynecology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-f8590f75-9a1d-43be-bffd-d0a8c27eb7b7.png"
+    },
+    {
+      "path": "departments/obstetrics-gynecology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-563e8185-9721-4508-a720-98fe1dbbd7bf.png"
+    },
+    {
+      "path": "departments/pediatrics.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-622ad307-a26f-425b-b49a-ce40f014511f.png"
+    },
+    {
+      "path": "departments/pediatrics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-03364c20-f59b-4d44-8ef8-3914411372ba.png"
+    },
+    {
+      "path": "departments/radiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e94eabbc-4a96-470a-98fc-a3d78c333ac2.png"
+    },
+    {
+      "path": "departments/radiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ffbdcd2c-38ec-4382-b7c2-ea4becf10312.png"
+    },
+    {
+      "path": "icons/departments/emergency.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d92bb336-39db-468c-8901-6b4729d348ec.png"
+    },
+    {
+      "path": "icons/departments/emergency.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1370f84f-716b-4ee3-857b-d5db04059404.png"
+    },
+    {
+      "path": "icons/departments/icu.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ce311e26-3d8b-42d2-8508-d4ec54557a87.png"
+    },
+    {
+      "path": "icons/departments/icu.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-2446d034-d873-4aa9-b17e-01ea34534976.png"
+    },
+    {
+      "path": "icons/departments/anesthesiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e0215994-b62c-417b-a7a0-851c2dcdec81.png"
+    },
+    {
+      "path": "icons/departments/anesthesiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0adac670-160b-4b13-a306-2f7f85d67b9e.png"
+    },
+    {
+      "path": "about/technology.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d6075890-5abf-45da-b26e-37a0f93b2e6e.png"
+    },
+    {
+      "path": "icons/departments/cardiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3be99f5b-df03-4302-bcaf-43aeabca61d1.png"
+    },
+    {
+      "path": "icons/departments/cardiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-01b79a4f-b050-4952-b1d0-3a6f66a9ddca.png"
+    },
+    {
+      "path": "icons/departments/neurology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fe3d30a5-d0f8-4f16-97d7-b5095bdbc0cd.png"
+    },
+    {
+      "path": "icons/departments/neurology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-aa1be80e-7aef-42f9-b152-3c7897488ebf.png"
+    },
+    {
+      "path": "icons/departments/gastroenterology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a61716b9-7e1f-4964-aca9-9d05e8e125aa.png"
+    },
+    {
+      "path": "icons/departments/gastroenterology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-22b5fbfe-5beb-4203-b696-09002786272b.png"
+    },
+    {
+      "path": "icons/departments/pulmonology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-12816b61-2d5b-4379-88a6-f1c4056b4f71.png"
+    },
+    {
+      "path": "icons/departments/pulmonology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-943d4b5f-f52c-4004-92d2-010227f45c09.png"
+    },
+    {
+      "path": "icons/departments/nephrology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ba792557-b77f-47b0-84e7-9310edeb7ea6.png"
+    },
+    {
+      "path": "icons/departments/nephrology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8cb5d1a8-e7bf-4bf2-a644-16e647491b78.png"
+    },
+    {
+      "path": "icons/departments/endocrinology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5089f3ee-aa4a-4c4d-9c57-13c66f4a9056.png"
+    },
+    {
+      "path": "icons/departments/endocrinology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-dce1379b-2f6c-4b45-9763-e0cc79a863cc.png"
+    },
+    {
+      "path": "icons/departments/internal-medicine.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e830b62c-36b5-46cf-a1d5-4b33688b8fd3.png"
+    },
+    {
+      "path": "icons/departments/internal-medicine.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-59a1e1c0-3cdf-4e47-9b02-a21d21d91d5f.png"
+    },
+    {
+      "path": "icons/departments/general-surgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e99a8cb2-1323-47ed-a1a6-158bbbd4a89d.png"
+    },
+    {
+      "path": "icons/departments/general-surgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a3708efb-7b91-497c-b997-d91d10deac95.png"
+    },
+    {
+      "path": "icons/departments/orthopedics.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c5bac7a2-b0da-44af-9158-a79bd7e719ea.png"
+    },
+    {
+      "path": "icons/departments/orthopedics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7b810fca-36a6-43c0-898a-89ed0ad9ac0c.png"
+    },
+    {
+      "path": "icons/departments/neurosurgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4236396e-e63e-4c55-8fe0-2522585809ce.png"
+    },
+    {
+      "path": "icons/departments/neurosurgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3eecbe0f-3366-45b7-92ee-63ed7af051e9.png"
+    },
+    {
+      "path": "icons/departments/urology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-cf0c2c55-ba65-4dd2-a25b-d8031ea1ee94.png"
+    },
+    {
+      "path": "icons/departments/urology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ca4377f9-6e2c-40e1-87da-387ab3278b48.png"
+    },
+    {
+      "path": "icons/departments/plastic-surgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1098b79f-f905-44cc-809a-b6961b87d337.png"
+    },
+    {
+      "path": "icons/departments/plastic-surgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-02297f2c-8b15-48fb-849a-b90c62d3b4f9.png"
+    },
+    {
+      "path": "icons/departments/obstetrics-gynecology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1163d1b2-6fff-40f7-a15d-e47ee9f1d35d.png"
+    },
+    {
+      "path": "icons/departments/obstetrics-gynecology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-65767f73-89c8-4b07-95b5-920a935ba464.png"
+    },
+    {
+      "path": "icons/departments/pediatrics.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e8dff872-66ac-419b-89a3-449a932302aa.png"
+    },
+    {
+      "path": "icons/departments/pediatrics.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-16c0d2ea-ec14-4fd3-a096-79f978491a38.png"
+    },
+    {
+      "path": "icons/departments/neonatology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-05669c74-d4b6-4d24-afe8-d649df1e80fa.png"
+    },
+    {
+      "path": "icons/departments/neonatology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-790f436b-6a17-4a0e-a426-1d4c2e306b0a.png"
+    },
+    {
+      "path": "icons/departments/oncology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ddc0d764-0771-4c1d-aaf6-a63c6e410583.png"
+    },
+    {
+      "path": "icons/departments/oncology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-edc336e4-9290-4c96-b0d9-8a77a8163987.png"
+    },
+    {
+      "path": "icons/departments/dermatology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-f3a94415-7087-4bec-a220-3c8854a41882.png"
+    },
+    {
+      "path": "icons/departments/dermatology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3f7a53fd-3a11-4267-b6dc-c872812e6901.png"
+    },
+    {
+      "path": "icons/departments/ent.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-058c4c95-3f17-43ce-a63c-e80551bc716a.png"
+    },
+    {
+      "path": "icons/departments/ent.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-870f0cc6-d876-461e-abb6-a20c975fdb1e.png"
+    },
+    {
+      "path": "icons/departments/ophthalmology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e9e13997-b77e-4faa-91d4-0b852e298853.png"
+    },
+    {
+      "path": "icons/departments/ophthalmology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-46ce9b50-5be7-4940-9e34-0b0576b0718b.png"
+    },
+    {
+      "path": "icons/departments/psychiatry.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0fce2217-f536-45db-8e87-ebc336df65b8.png"
+    },
+    {
+      "path": "icons/departments/psychiatry.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c8bbbf14-7c61-461d-8b62-743f984817cb.png"
+    },
+    {
+      "path": "icons/departments/dentistry.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7aa18b42-ab4c-486b-82ac-a19bc19ff525.png"
+    },
+    {
+      "path": "icons/departments/dentistry.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9d2b7756-41e0-4972-9725-a9b0b89442ac.png"
+    },
+    {
+      "path": "icons/departments/radiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-24c7b8c5-5672-44e9-8cae-5753d6dcba36.png"
+    },
+    {
+      "path": "icons/departments/radiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d711a923-24fe-4ca6-a2c5-a1af16b652ce.png"
+    },
+    {
+      "path": "icons/departments/pathology-lab.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c9b9d593-7033-42a7-b9be-77636e3fc317.png"
+    },
+    {
+      "path": "icons/departments/pathology-lab.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c029a326-3916-491c-9f6b-7e5b6d1726b5.png"
+    },
+    {
+      "path": "icons/departments/pharmacy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8f676439-1783-4601-91dc-02f2b654eac1.png"
+    },
+    {
+      "path": "icons/departments/pharmacy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4797e08b-0fd7-475c-9860-708d6cf607d8.png"
+    },
+    {
+      "path": "icons/departments/physiotherapy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-51cad8cc-7091-46f3-bdf5-698805a26c7e.png"
+    },
+    {
+      "path": "icons/departments/physiotherapy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-caa59ac6-b4cb-407d-9c91-9832b7562e06.png"
+    },
+    {
+      "path": "icons/departments/nutrition.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-536c374a-7c1f-4cd3-9580-115f4b425c9f.png"
+    },
+    {
+      "path": "icons/departments/nutrition.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fa0bcf85-d54b-49b2-be43-54cfa0e4551e.png"
+    },
+    {
+      "path": "doctors/dr-01.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-590bd28c-2f34-473f-aa42-c7d444c180d2.png"
+    },
+    {
+      "path": "doctors/dr-01.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e0bfe40e-a37a-4a3c-af0d-f326b656d334.png"
+    },
+    {
+      "path": "doctors/dr-02.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e7710f15-bdff-4775-ad68-27cb6a1ff23b.png"
+    },
+    {
+      "path": "doctors/dr-02.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-69d36e0a-d3a3-4200-a1f3-b6876edc83aa.png"
+    },
+    {
+      "path": "doctors/dr-03.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-19552743-beaf-431d-b774-44dfab4a926a.png"
+    },
+    {
+      "path": "doctors/dr-03.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d7ce091d-1e19-49b1-9ef4-240bbeae6e57.png"
+    },
+    {
+      "path": "doctors/dr-04.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-818bd748-7350-41b7-aa73-402a8bb86ae7.png"
+    },
+    {
+      "path": "doctors/dr-04.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-772acf7f-93dd-4f53-aef0-8a0f810ecd69.png"
+    },
+    {
+      "path": "doctors/dr-05.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a13fbf84-6d84-4cfa-982d-bfb8813424ac.png"
+    },
+    {
+      "path": "doctors/dr-05.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-f21094f0-00d1-478f-ac5e-a5bdda6145d0.png"
+    },
+    {
+      "path": "doctors/dr-06.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-29d39e3c-a9a4-480a-afbb-b8efaca387d1.png"
+    },
+    {
+      "path": "doctors/dr-06.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-941491a0-1bdd-44d1-a2b2-4d9d15609a17.png"
+    },
+    {
+      "path": "marketplace/banners/banner-checkup.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5c52271d-5ff9-44fe-acdf-04c95f008fbb.png"
+    },
+    {
+      "path": "marketplace/banners/banner-checkup.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7d23d865-cda0-4609-8cb2-05c02fcb5ad6.png"
+    },
+    {
+      "path": "marketplace/banners/banner-pharmacy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0384db69-09be-4241-aad8-3976b9c7a821.png"
+    },
+    {
+      "path": "marketplace/banners/banner-pharmacy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-90af1a8b-f2fd-4c40-8f70-ddab33319af7.png"
+    },
+    {
+      "path": "marketplace/banners/banner-devices.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0871afb4-db87-409a-a3a1-699f59a05dc1.png"
+    },
+    {
+      "path": "marketplace/banners/banner-devices.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b7b82f01-2f88-4c04-80cb-7e5ec28a8015.png"
+    },
+    {
+      "path": "marketplace/banners/banner-home-lab.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-664fbfe4-22b8-4038-bad8-aae22e7e8b8e.png"
+    },
+    {
+      "path": "marketplace/banners/banner-home-lab.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3521c25f-e4b9-42de-b48b-d1866c46da0a.png"
+    },
+    {
+      "path": "marketplace/banners/banner-flash-sale.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e1930971-424a-4ba1-859b-824f851dc706.png"
+    },
+    {
+      "path": "marketplace/banners/banner-flash-sale.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-656b1875-c878-4dd5-993b-6800e01fc595.png"
+    },
+    {
+      "path": "marketplace/banners/banner-telemedicine.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7f4d8b57-9088-4715-9471-4b188c9f82b4.png"
+    },
+    {
+      "path": "marketplace/banners/banner-telemedicine.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-6cdc1dbb-7f2c-45db-9a76-54d45901be35.png"
+    },
+    {
+      "path": "marketplace/banners/banner-wellness.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-afc58872-c809-45fb-9465-96ce4b6562fc.png"
+    },
+    {
+      "path": "marketplace/banners/banner-wellness.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b82dd874-f5ea-486a-bfca-350a4c5d7c0d.png"
+    },
+    {
+      "path": "marketplace/categories/lab-tests.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-05eddbca-e1fc-4f6b-82f6-feb90badecb8.png"
+    },
+    {
+      "path": "marketplace/categories/lab-tests.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-2d8d579e-fd71-4b62-a2fe-dfc788085d28.png"
+    },
+    {
+      "path": "marketplace/categories/health-packages.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-89d12b32-b5d0-4a30-ae0a-5574f7711b8d.png"
+    },
+    {
+      "path": "marketplace/categories/health-packages.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-884a7b6c-fbf2-48f5-8f58-75531f7c30e8.png"
+    },
+    {
+      "path": "marketplace/categories/pharmacy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-98625214-7945-4303-91f2-8846fe636705.png"
+    },
+    {
+      "path": "marketplace/categories/pharmacy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c174a323-abd5-4fc8-bf20-03835b705d9a.png"
+    },
+    {
+      "path": "marketplace/categories/medical-devices.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b4a66110-265c-4aa5-8493-af8a2ba65193.png"
+    },
+    {
+      "path": "marketplace/categories/medical-devices.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-521b26af-0570-4e63-ac5c-64655cfd30fd.png"
+    },
+    {
+      "path": "marketplace/categories/mobility.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e55485bd-a377-4633-aed9-548cd37074e0.png"
+    },
+    {
+      "path": "marketplace/categories/mobility.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8946b7ca-cb48-407c-85ad-64d3edec98be.png"
+    },
+    {
+      "path": "marketplace/categories/consultations.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b884a390-e6c9-4b0c-b008-e3387bdcc925.png"
+    },
+    {
+      "path": "marketplace/categories/consultations.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a991ed25-aee1-4ce0-8061-6fb14c95a228.png"
+    },
+    {
+      "path": "marketplace/categories/wellness.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-89529077-0a8c-451f-a86a-452c0a3aa9c0.png"
+    },
+    {
+      "path": "marketplace/categories/wellness.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-6660bdfa-8dda-4c67-b797-1b23c62b0468.png"
+    },
+    {
+      "path": "marketplace/categories/mother-baby.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fe1f7fb6-c7e3-475a-a926-6a897067ff81.png"
+    },
+    {
+      "path": "marketplace/categories/mother-baby.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c3ea6d2b-6903-41d7-bf1b-067d1a30ebce.png"
+    },
+    {
+      "path": "marketplace/categories/personal-care.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4085581f-4689-44da-bcb6-78badc2cf785.png"
+    },
+    {
+      "path": "marketplace/categories/personal-care.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-512c6c62-ba62-4d1d-9ff4-fe9da21a7279.png"
+    },
+    {
+      "path": "marketplace/categories/first-aid.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7e2bda0c-e574-4f4d-b20c-b6aaefa17e4c.png"
+    },
+    {
+      "path": "marketplace/categories/first-aid.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-89084a1d-bd85-4363-8403-2580d6d8a826.png"
+    },
+    {
+      "path": "marketplace/products/bp-monitor.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-cc370875-487c-4be4-ae14-cfbc49777532.png"
+    },
+    {
+      "path": "marketplace/products/bp-monitor.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7b646e59-5ec0-41d0-be55-b991bb8c91a1.png"
+    },
+    {
+      "path": "marketplace/products/glucometer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3e876a46-4803-4a24-b4f2-0d04638bdb5b.png"
+    },
+    {
+      "path": "marketplace/products/glucometer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9fd29113-7600-44e5-bcfc-29949654a0c2.png"
+    },
+    {
+      "path": "marketplace/products/pulse-oximeter.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-77947eb9-7531-41eb-85e8-cf6066b98dfe.png"
+    },
+    {
+      "path": "marketplace/products/pulse-oximeter.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0855904c-9444-43f5-a5ac-d872e3f0466e.png"
+    },
+    {
+      "path": "marketplace/products/thermometer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-aff53859-9d0d-444d-975b-87b14743d80a.png"
+    },
+    {
+      "path": "marketplace/products/thermometer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-346e0353-8dd2-4980-8c90-6d00b4968c28.png"
+    },
+    {
+      "path": "marketplace/products/nebulizer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-25df5434-70ec-4a7c-8d7d-92367d8265e4.png"
+    },
+    {
+      "path": "marketplace/products/nebulizer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c6107ff5-9cb2-4318-95a6-22b8866ac4a9.png"
+    },
+    {
+      "path": "marketplace/products/stethoscope.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c983883e-05ab-4686-b792-6d6112597477.png"
+    },
+    {
+      "path": "marketplace/products/stethoscope.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-558056c3-f426-4127-b047-e6d023226d47.png"
+    },
+    {
+      "path": "marketplace/products/weight-scale.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5c34a989-60ad-4824-8a4d-822510878ace.png"
+    },
+    {
+      "path": "marketplace/products/weight-scale.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3b7a488e-b1bc-4703-89a5-af0b3774cf26.png"
+    },
+    {
+      "path": "marketplace/products/heating-pad.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a7288993-fc18-4621-834e-4ad76a444fac.png"
+    },
+    {
+      "path": "marketplace/products/heating-pad.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1ef7a5e0-a67d-47e3-a78d-482bfae1d6c5.png"
+    },
+    {
+      "path": "marketplace/products/knee-brace.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-bd00743e-16f9-4848-919f-26728e57cc79.png"
+    },
+    {
+      "path": "marketplace/products/knee-brace.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c74a08e3-95d5-4b1e-85f3-8bfc5338460a.png"
+    },
+    {
+      "path": "marketplace/products/back-support.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e21bab45-adca-45a2-a83d-165f17ea6578.png"
+    },
+    {
+      "path": "marketplace/products/back-support.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1426f470-3a58-43d8-bab1-cabaaebdd623.png"
+    },
+    {
+      "path": "marketplace/products/wheelchair.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fe7524f4-8d9d-4058-ba68-7ac01a2e83ba.png"
+    },
+    {
+      "path": "marketplace/products/wheelchair.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-229c585e-47c6-4fc9-a68a-0880dfdbbe9d.png"
+    },
+    {
+      "path": "marketplace/products/walker.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-956d5e5d-9bb8-4c18-bd46-6b8e4135d5e3.png"
+    },
+    {
+      "path": "marketplace/products/walker.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e2b26d8d-f81a-4f73-9707-99cd40c36bdc.png"
+    },
+    {
+      "path": "marketplace/products/crutches.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a11ebf75-b9c5-4a9d-a23b-765915516e4e.png"
+    },
+    {
+      "path": "marketplace/products/crutches.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d72e29fb-1af6-4f4e-a732-1a493e6f35e4.png"
+    },
+    {
+      "path": "marketplace/products/hospital-bed.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-aa85c48d-09b8-45da-91f8-14f2949af636.png"
+    },
+    {
+      "path": "marketplace/products/hospital-bed.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9d3086ce-ddb1-4c37-9886-7b31c53679f2.png"
+    },
+    {
+      "path": "marketplace/products/first-aid-kit.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a646c5f3-09a0-4878-97ce-7b027b0fa931.png"
+    },
+    {
+      "path": "marketplace/products/first-aid-kit.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ffdbee31-16f2-4d33-b9d0-6bcaea14e912.png"
+    },
+    {
+      "path": "departments/anesthesiology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b83211fe-514e-4158-a6ae-a44405780b8b.png"
+    },
+    {
+      "path": "departments/anesthesiology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-531ba4bc-640a-40a4-8690-d35f30aaafe9.png"
+    },
+    {
+      "path": "departments/gastroenterology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-26d5775d-8402-4549-bd8a-59d8f25f365d.png"
+    },
+    {
+      "path": "departments/gastroenterology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-56172490-6daa-4776-a7a6-eeb1edc4b07a.png"
+    },
+    {
+      "path": "departments/pulmonology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3e9cd7b9-2f04-447e-bd5c-d77a425547cd.png"
+    },
+    {
+      "path": "departments/pulmonology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9504a361-ca5f-48f0-a169-73185b4ca6a8.png"
+    },
+    {
+      "path": "departments/nephrology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ed0fa35a-c74a-401c-b42f-c163dc010c6e.png"
+    },
+    {
+      "path": "departments/nephrology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-976ead9c-1db7-4555-afa5-7a6cf89ff6ee.png"
+    },
+    {
+      "path": "departments/endocrinology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-838937b9-5af5-413b-bd10-22eeaf848456.png"
+    },
+    {
+      "path": "departments/endocrinology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-873a8365-0d95-4a95-b58b-1ccd349c841c.png"
+    },
+    {
+      "path": "departments/neurosurgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8ceeac4f-7f5e-45c5-8150-6ddd677610f2.png"
+    },
+    {
+      "path": "departments/neurosurgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-86d9ae5d-6f0c-4c25-bb67-1e3c8dd95d85.png"
+    },
+    {
+      "path": "departments/urology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-37835386-b6f9-4163-82ac-481f98d03f2d.png"
+    },
+    {
+      "path": "departments/urology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d0d30a38-2082-42a9-9b40-9f09417e86a5.png"
+    },
+    {
+      "path": "departments/plastic-surgery.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c5279557-8684-4961-a3e8-42cab4484405.png"
+    },
+    {
+      "path": "departments/plastic-surgery.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1273c4e2-fe38-467c-9ccb-9256f4461bba.png"
+    },
+    {
+      "path": "departments/neonatology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b44d80c5-e8d7-475c-8d9a-a480ec5060cc.png"
+    },
+    {
+      "path": "departments/neonatology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-74a46705-c8c6-4668-85bd-bd45f15e6106.png"
+    },
+    {
+      "path": "departments/oncology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0fe8f58e-f444-4d5d-87f3-4f566e869fa7.png"
+    },
+    {
+      "path": "departments/oncology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-016de4bd-f640-441d-b5c9-245d19069a1e.png"
+    },
+    {
+      "path": "departments/dermatology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-85dc1f1c-7933-4bcc-9cce-93f1a338b04f.png"
+    },
+    {
+      "path": "departments/dermatology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-f58ef2b3-6e27-46f1-bfe4-b3add4f94e8b.png"
+    },
+    {
+      "path": "departments/ent.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9a93eace-de8c-4ce5-92c3-d08258e58d50.png"
+    },
+    {
+      "path": "departments/ent.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3d09d023-2af4-4ae3-95c0-97eb10a6efd2.png"
+    },
+    {
+      "path": "departments/ophthalmology.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9cb03b33-79fa-4bf7-9432-959c02da3650.png"
+    },
+    {
+      "path": "departments/ophthalmology.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-854977e9-d8f6-40e6-b786-f0badfe18be8.png"
+    },
+    {
+      "path": "departments/psychiatry.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-2edcd1a2-791b-48fb-a39b-b5f390cc5eea.png"
+    },
+    {
+      "path": "departments/psychiatry.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5fa3aff8-c410-45a2-a248-3a5eeb434524.png"
+    },
+    {
+      "path": "departments/dentistry.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9164b93a-23f8-4185-91b6-1207a7d4375a.png"
+    },
+    {
+      "path": "departments/dentistry.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-9d4235fe-a6ea-4d29-9e49-24484b130a3c.png"
+    },
+    {
+      "path": "departments/pathology-lab.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7a94d5b5-c180-4af1-b53f-c03d3b01fe1a.png"
+    },
+    {
+      "path": "departments/pathology-lab.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b76a265e-d770-4ae2-ac3d-2fe8fbb51597.png"
+    },
+    {
+      "path": "departments/pharmacy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b538a438-b845-435e-83b0-6e98d7251303.png"
+    },
+    {
+      "path": "departments/pharmacy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-21920bf5-6468-4d73-82dd-08066adc4dee.png"
+    },
+    {
+      "path": "departments/physiotherapy.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-db0fed2d-8005-4667-baf9-5b3a54b2a0ed.png"
+    },
+    {
+      "path": "departments/physiotherapy.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7f6c5ba4-3c9c-4735-a18e-4f14b6177de1.png"
+    },
+    {
+      "path": "departments/nutrition.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-db6337e8-56bf-40b3-948b-2306a5828872.png"
+    },
+    {
+      "path": "departments/nutrition.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0d1bb73d-59c9-4dd2-9ccc-34a7f67a88a5.png"
+    },
+    {
+      "path": "doctors/dr-07.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-6e6c8e54-3e78-40ec-bea1-051359205c5f.png"
+    },
+    {
+      "path": "doctors/dr-07.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-78e826a1-9b17-478a-9b21-6aec5ed1db82.png"
+    },
+    {
+      "path": "doctors/dr-08.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ccadd2bd-75f8-4db4-8a9e-50693936162c.png"
+    },
+    {
+      "path": "doctors/dr-08.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-59558601-e599-4519-b54c-cdf1ee04762e.png"
+    },
+    {
+      "path": "doctors/dr-09.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-07eca0cb-df99-4c6c-8f53-e42822ddc2d7.png"
+    },
+    {
+      "path": "doctors/dr-09.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-398cb727-9e63-4e05-bd32-2750d20311de.png"
+    },
+    {
+      "path": "doctors/dr-10.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b9394c54-d23b-47ea-a365-1ceb4f91ad4c.png"
+    },
+    {
+      "path": "doctors/dr-10.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-882e79f7-0b53-4d57-9712-9028cc443ced.png"
+    },
+    {
+      "path": "doctors/dr-11.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fb9b8ed8-4159-45c4-bd40-6812dc904467.png"
+    },
+    {
+      "path": "doctors/dr-11.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7e72b906-6a20-420e-9c1c-a4500b77f2b5.png"
+    },
+    {
+      "path": "doctors/dr-12.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ae5becf4-6974-4175-98f6-b2f8fc3a1556.png"
+    },
+    {
+      "path": "doctors/dr-12.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-77978597-2a2a-45d6-abb5-f0c850a3d2ee.png"
+    },
+    {
+      "path": "dashboard/avatar-01.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-bd7e0fd9-fff7-4236-b22d-6f16279806c8.png"
+    },
+    {
+      "path": "dashboard/avatar-01.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-89341281-70ce-4bf7-ab1c-b10605026b82.png"
+    },
+    {
+      "path": "dashboard/avatar-02.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-a763392e-64a8-4183-98c3-d49b324ac6a0.png"
+    },
+    {
+      "path": "dashboard/avatar-02.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-df106db2-c1e4-46b9-9fea-19dba8e06095.png"
+    },
+    {
+      "path": "dashboard/avatar-03.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-e625016f-ac8d-4e79-9409-6b7a96f16269.png"
+    },
+    {
+      "path": "dashboard/avatar-03.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4b09af3d-70a0-4d0e-bc88-5eb5f0e0d2fd.png"
+    },
+    {
+      "path": "dashboard/avatar-04.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-77f58c5a-4dd7-4f2c-9b0b-e6b654653f61.png"
+    },
+    {
+      "path": "dashboard/avatar-04.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8343bd3d-69c3-4930-af0f-c8130f5a1435.png"
+    },
+    {
+      "path": "dashboard/avatar-05.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-924ff482-9b03-435f-9a14-b61eb689f2a7.png"
+    },
+    {
+      "path": "dashboard/avatar-05.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-57f75940-0ad7-448d-a8c5-56785068f0d7.png"
+    },
+    {
+      "path": "dashboard/avatar-06.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-50802e6a-84d5-4442-9471-c18576133483.png"
+    },
+    {
+      "path": "dashboard/avatar-06.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-da2fe7a5-6909-433b-a396-57dcb5328981.png"
+    },
+    {
+      "path": "dashboard/avatar-07.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-2c31af8e-08bd-4c9a-90fe-0d2558d704b6.png"
+    },
+    {
+      "path": "dashboard/avatar-07.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-aa01dcab-881e-42c8-89a7-705d43de23d9.png"
+    },
+    {
+      "path": "dashboard/avatar-08.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-123b4d5c-50be-48d0-bfdf-8b8246511862.png"
+    },
+    {
+      "path": "dashboard/avatar-08.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b62361a7-da2f-4209-9fad-d2b1ed336085.png"
+    },
+    {
+      "path": "marketplace/products/face-masks.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3eeee1ba-46fb-4ca2-bb3c-ad9fa2b4ce48.png"
+    },
+    {
+      "path": "marketplace/products/face-masks.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-7d1fe77c-7912-4870-8bcf-f1f67901d9c9.png"
+    },
+    {
+      "path": "marketplace/products/gloves.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-15e44d9d-5bc4-4c88-bfa1-cfe6ee746ce2.png"
+    },
+    {
+      "path": "marketplace/products/gloves.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ac73bb31-1296-49ff-8a29-629e821aa1dd.png"
+    },
+    {
+      "path": "marketplace/products/sanitizer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-c4a5f840-142a-4847-a5e5-4548937114d3.png"
+    },
+    {
+      "path": "marketplace/products/sanitizer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-8b6f2617-63d8-4aaa-849b-2a2331db46ca.png"
+    },
+    {
+      "path": "dashboard/avatar-01.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-1036dcd1-d01b-4b7d-a7d5-6e37617bae0a.png"
+    },
+    {
+      "path": "marketplace/products/vitamins.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-f4741001-f3df-4a9f-9107-d7d18d30e7df.png"
+    },
+    {
+      "path": "marketplace/products/vitamins.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-05c0eb94-573b-4c90-b816-d2bfd9779993.png"
+    },
+    {
+      "path": "marketplace/products/omega3.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3a1f90ae-07fa-40ac-8659-a38c6cec32ac.png"
+    },
+    {
+      "path": "marketplace/products/omega3.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-d08c73d5-cefa-4377-9e43-28ee8e9f4f84.png"
+    },
+    {
+      "path": "marketplace/products/protein.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-4f5d7576-b2bd-40a7-af29-353acecf1519.png"
+    },
+    {
+      "path": "marketplace/products/protein.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-14ebab6b-d7b0-40f9-a9c7-335e9a9683b0.png"
+    },
+    {
+      "path": "marketplace/products/pain-relief.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-0616d776-4833-4b52-b8c6-2a0d4f24977c.png"
+    },
+    {
+      "path": "marketplace/products/pain-relief.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-5400f3d5-296f-4805-84d2-e02df43de6e1.png"
+    },
+    {
+      "path": "marketplace/products/cough-syrup.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-75407484-6b81-4854-b2af-fdcf896b4ac0.png"
+    },
+    {
+      "path": "marketplace/products/cough-syrup.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-63668b14-bab8-4b40-9a07-cd79184b37e2.png"
+    },
+    {
+      "path": "marketplace/products/pill-organizer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-3d58da27-b8af-4359-b1da-aabf94b2ff2b.png"
+    },
+    {
+      "path": "marketplace/products/pill-organizer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-fbffd88e-d5fd-4833-b040-d0b62d149066.png"
+    },
+    {
+      "path": "marketplace/products/baby-formula.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b547a7be-efe8-4fa8-a2f7-42ce943e2e14.png"
+    },
+    {
+      "path": "marketplace/products/baby-formula.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-00928727-2f80-4632-8947-8af960d98eb7.png"
+    },
+    {
+      "path": "marketplace/products/baby-thermometer.png",
+      "variant": 1,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-bd6444c8-55fe-4839-b926-815dac68daf9.png"
+    },
+    {
+      "path": "marketplace/products/baby-thermometer.png",
+      "variant": 2,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-924ab106-c044-4868-b818-6f3dde3be6fc.png"
+    },
+    {
+      "path": "dashboard/avatar-06.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-ad2c0909-2baf-4f04-a34e-ed920538f8db.png"
+    },
+    {
+      "path": "marketplace/products/gloves.png",
+      "variant": 3,
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a198df-5905-7362-9b80-aef1a21eb833\\exec-b27a6af0-05c0-42f5-b813-54070c256f65.png"
+    }
+  ]
+}

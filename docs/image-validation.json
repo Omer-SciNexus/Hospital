@@ -1,0 +1,618 @@
+﻿[
+    {
+        "path":  "about/lab.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1896617
+    },
+    {
+        "path":  "about/patient-care.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1911131
+    },
+    {
+        "path":  "about/team-meeting.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1982563
+    },
+    {
+        "path":  "about/technology.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2174019
+    },
+    {
+        "path":  "departments/cardiology.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2170059
+    },
+    {
+        "path":  "departments/emergency.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1993464
+    },
+    {
+        "path":  "departments/general-surgery.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2103822
+    },
+    {
+        "path":  "departments/icu.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2051002
+    },
+    {
+        "path":  "departments/internal-medicine.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1925696
+    },
+    {
+        "path":  "departments/neurology.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1985938
+    },
+    {
+        "path":  "departments/obstetrics-gynecology.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1910075
+    },
+    {
+        "path":  "departments/orthopedics.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1920536
+    },
+    {
+        "path":  "departments/pediatrics.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2012576
+    },
+    {
+        "path":  "departments/radiology.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1802305
+    },
+    {
+        "path":  "doctors/dr-01.png",
+        "width":  1024,
+        "height":  1536,
+        "cornerAlpha":  255,
+        "bytes":  1885114
+    },
+    {
+        "path":  "doctors/dr-02.png",
+        "width":  1024,
+        "height":  1536,
+        "cornerAlpha":  255,
+        "bytes":  1914778
+    },
+    {
+        "path":  "doctors/dr-03.png",
+        "width":  1024,
+        "height":  1536,
+        "cornerAlpha":  255,
+        "bytes":  1853020
+    },
+    {
+        "path":  "doctors/dr-04.png",
+        "width":  1024,
+        "height":  1536,
+        "cornerAlpha":  255,
+        "bytes":  1945080
+    },
+    {
+        "path":  "doctors/dr-05.png",
+        "width":  1024,
+        "height":  1536,
+        "cornerAlpha":  255,
+        "bytes":  1880692
+    },
+    {
+        "path":  "doctors/dr-06.png",
+        "width":  1024,
+        "height":  1536,
+        "cornerAlpha":  255,
+        "bytes":  2049859
+    },
+    {
+        "path":  "hero/contact.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2582810
+    },
+    {
+        "path":  "hero/doctors.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2061794
+    },
+    {
+        "path":  "hero/emergency.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2223820
+    },
+    {
+        "path":  "hero/home-hero-alt.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2468446
+    },
+    {
+        "path":  "hero/home-hero.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1909006
+    },
+    {
+        "path":  "hero/marketplace.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1975184
+    },
+    {
+        "path":  "hero/services.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2004439
+    },
+    {
+        "path":  "icons/departments/anesthesiology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  943104
+    },
+    {
+        "path":  "icons/departments/cardiology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1077437
+    },
+    {
+        "path":  "icons/departments/dentistry.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1046236
+    },
+    {
+        "path":  "icons/departments/dermatology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1109148
+    },
+    {
+        "path":  "icons/departments/emergency.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1124190
+    },
+    {
+        "path":  "icons/departments/endocrinology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  947803
+    },
+    {
+        "path":  "icons/departments/ent.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  934859
+    },
+    {
+        "path":  "icons/departments/gastroenterology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  887621
+    },
+    {
+        "path":  "icons/departments/general-surgery.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  957329
+    },
+    {
+        "path":  "icons/departments/icu.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1242293
+    },
+    {
+        "path":  "icons/departments/internal-medicine.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  734048
+    },
+    {
+        "path":  "icons/departments/neonatology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  964664
+    },
+    {
+        "path":  "icons/departments/nephrology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1357598
+    },
+    {
+        "path":  "icons/departments/neurology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1211312
+    },
+    {
+        "path":  "icons/departments/neurosurgery.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1166110
+    },
+    {
+        "path":  "icons/departments/nutrition.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1086757
+    },
+    {
+        "path":  "icons/departments/obstetrics-gynecology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  908206
+    },
+    {
+        "path":  "icons/departments/oncology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  931253
+    },
+    {
+        "path":  "icons/departments/ophthalmology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1024910
+    },
+    {
+        "path":  "icons/departments/orthopedics.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  676098
+    },
+    {
+        "path":  "icons/departments/pathology-lab.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  996577
+    },
+    {
+        "path":  "icons/departments/pediatrics.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1269445
+    },
+    {
+        "path":  "icons/departments/pharmacy.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1062604
+    },
+    {
+        "path":  "icons/departments/physiotherapy.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  800297
+    },
+    {
+        "path":  "icons/departments/plastic-surgery.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1052013
+    },
+    {
+        "path":  "icons/departments/psychiatry.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1053727
+    },
+    {
+        "path":  "icons/departments/pulmonology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1218437
+    },
+    {
+        "path":  "icons/departments/radiology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1405049
+    },
+    {
+        "path":  "icons/departments/urology.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  839950
+    },
+    {
+        "path":  "marketplace/banners/banner-checkup.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1676109
+    },
+    {
+        "path":  "marketplace/banners/banner-devices.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1716185
+    },
+    {
+        "path":  "marketplace/banners/banner-flash-sale.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1593353
+    },
+    {
+        "path":  "marketplace/banners/banner-home-lab.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2168770
+    },
+    {
+        "path":  "marketplace/banners/banner-pharmacy.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  1673756
+    },
+    {
+        "path":  "marketplace/banners/banner-telemedicine.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2036627
+    },
+    {
+        "path":  "marketplace/banners/banner-wellness.png",
+        "width":  1536,
+        "height":  1024,
+        "cornerAlpha":  255,
+        "bytes":  2112583
+    },
+    {
+        "path":  "marketplace/categories/consultations.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1049908
+    },
+    {
+        "path":  "marketplace/categories/first-aid.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1149480
+    },
+    {
+        "path":  "marketplace/categories/health-packages.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1050432
+    },
+    {
+        "path":  "marketplace/categories/lab-tests.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1239873
+    },
+    {
+        "path":  "marketplace/categories/medical-devices.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1218513
+    },
+    {
+        "path":  "marketplace/categories/mobility.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1308507
+    },
+    {
+        "path":  "marketplace/categories/mother-baby.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  893031
+    },
+    {
+        "path":  "marketplace/categories/personal-care.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  775712
+    },
+    {
+        "path":  "marketplace/categories/pharmacy.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  913343
+    },
+    {
+        "path":  "marketplace/categories/wellness.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  935893
+    },
+    {
+        "path":  "marketplace/products/back-support.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1854888
+    },
+    {
+        "path":  "marketplace/products/bp-monitor.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1360893
+    },
+    {
+        "path":  "marketplace/products/crutches.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  915960
+    },
+    {
+        "path":  "marketplace/products/first-aid-kit.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  2141869
+    },
+    {
+        "path":  "marketplace/products/glucometer.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1264008
+    },
+    {
+        "path":  "marketplace/products/heating-pad.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  2053750
+    },
+    {
+        "path":  "marketplace/products/hospital-bed.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1117954
+    },
+    {
+        "path":  "marketplace/products/knee-brace.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1683236
+    },
+    {
+        "path":  "marketplace/products/nebulizer.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1199050
+    },
+    {
+        "path":  "marketplace/products/pulse-oximeter.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1073386
+    },
+    {
+        "path":  "marketplace/products/stethoscope.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1191278
+    },
+    {
+        "path":  "marketplace/products/thermometer.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1114114
+    },
+    {
+        "path":  "marketplace/products/walker.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1321634
+    },
+    {
+        "path":  "marketplace/products/weight-scale.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1194077
+    },
+    {
+        "path":  "marketplace/products/wheelchair.png",
+        "width":  1254,
+        "height":  1254,
+        "cornerAlpha":  0,
+        "bytes":  1664525
+    }
+]

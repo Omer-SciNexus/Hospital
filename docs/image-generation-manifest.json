@@ -1,0 +1,805 @@
+{
+  "mode": "built-in image_gen",
+  "scope": "Suggested first-version set, 10 department covers, first 6 doctors, first 15 products",
+  "count": 88,
+  "notes": [
+    "Two variations generated per prompt; one final image selected. Technology image received an additional correction.",
+    "Original PNG dimensions preserved; square outputs are 1254x1254 rather than requested 1024x1024.",
+    "All 54 requested transparent assets have an alpha channel and transparent top-left corner. Some generated cutout edges retain light fringe pixels; preview against your intended background.",
+    "Doctor portraits are fictional generated people."
+  ],
+  "assets": [
+    {
+      "path": "hero/home-hero.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. A smiling female doctor in a white coat talking warmly with a senior patient in a bright, modern hospital lobby with floor-to-ceiling windows and indoor plants, space on the left side for a headline\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "hero/home-hero-alt.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Wide view of a futuristic, airy hospital atrium with glass walls, curved white architecture, green plants and soft daylight, a few blurred people walking, empty sky area at the top for text\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "hero/emergency.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Emergency department entrance at dusk, modern ambulance bay with soft red and teal lights, medical staff moving a stretcher calmly and professionally, cinematic but not scary\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "hero/services.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Top-down flat-lay of medical tools on a white surface: stethoscope, tablet showing a heart chart, pills organizer, clipboard, arranged neatly with teal accents\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "hero/doctors.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. A diverse team of six doctors and nurses standing together confidently in a modern hospital corridor, smiling, slightly low angle, natural light\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "hero/marketplace.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Modern hospital pharmacy and wellness store interior, clean shelves with generic white and teal products, warm lighting, a pharmacist helping a young customer\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "hero/contact.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Exterior of a modern glass hospital building with greenery and a plaza, golden hour light, people walking in\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "about/team-meeting.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Doctors in a bright meeting room reviewing medical scans on a large screen, collaborative mood\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "about/technology.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Modern operating room with robotic surgical arms and large monitors, cool clean lighting, no blood\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark. Show the operating room ready before a procedure, an empty operating table and idle robotic surgical arms, no patient and no procedure in progress. Monitors show abstract teal line diagrams only; absolutely no organs, tissue, blood, letters or numbers.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 3
+    },
+    {
+      "path": "about/patient-care.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. A nurse adjusting a pillow for a smiling child patient in a colorful, cheerful pediatric room\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "about/lab.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Scientist in a modern laboratory holding a test tube, blurred lab equipment in the background, teal light accents\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "departments/emergency.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Calm, organized emergency room with medical staff attending a patient on a bed, monitors glowing, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "departments/icu.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Modern ICU room with advanced monitors, a nurse checking vitals, soft blue light, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "departments/cardiology.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Cardiologist explaining a 3D heart model to a middle-aged patient, ECG on a screen behind, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "departments/neurology.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Neurologist reviewing a colorful brain MRI scan on a large display with a patient, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "departments/internal-medicine.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. General physician doing a check-up with a stethoscope on an adult patient, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "departments/general-surgery.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Surgical team in teal scrubs in a bright modern operating room, viewed from the side, no blood, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "departments/orthopedics.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Orthopedic doctor examining a knee X-ray on a lightbox with an athletic patient, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "departments/obstetrics-gynecology.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Pregnant woman smiling during an ultrasound with a female doctor, soft warm light, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "departments/pediatrics.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Friendly pediatrician listening to a smiling child's heartbeat, colorful playful room, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "departments/radiology.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Modern MRI machine room with a technician preparing a patient, cool clean lighting, inside this specialty department of a modern hospital.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/emergency.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of an ambulance siren light with a medical cross.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a red accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/icu.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a heart rate monitor screen with a pulse line.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a blue accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/anesthesiology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of an oxygen mask.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a sky blue accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/cardiology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a stylized anatomical heart with a pulse line.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a rose pink accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/neurology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a stylized brain.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a violet accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/gastroenterology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a stylized stomach.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a amber accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/pulmonology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a pair of lungs.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a cyan accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/nephrology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a pair of kidneys.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a crimson accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/endocrinology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a glucose meter with a drop.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a lime accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/internal-medicine.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a stethoscope.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a teal accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/general-surgery.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a scalpel crossed with surgical scissors.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a slate accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/orthopedics.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a bone with a small bandage.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a orange accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/neurosurgery.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a brain with a small precision tool.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a purple accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/urology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a bladder-shaped water drop.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a indigo accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/plastic-surgery.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a face silhouette with sparkles.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a peach accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/obstetrics-gynecology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a pregnant belly silhouette with a heart.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a pink accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/pediatrics.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a teddy bear with a band-aid.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a yellow accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/neonatology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a baby bottle and a pacifier.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a baby blue accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/oncology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a ribbon with a shield.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a lavender accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/dermatology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a skin layer cross-section with a drop.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a sand accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/ent.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of an ear with sound waves.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a emerald accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/ophthalmology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of an eye.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a blue accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/psychiatry.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a head silhouette with a heart inside.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a soft purple accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "icons/departments/dentistry.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a shiny tooth.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a mint accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/radiology.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of an X-ray film of a rib cage.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a gray-blue accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/pathology-lab.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a microscope with a test tube.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a green accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/pharmacy.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a capsule pill and a medicine bottle.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a teal accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/physiotherapy.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a knee joint with a motion arrow.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a orange accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "icons/departments/nutrition.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of an apple with a leaf.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a green accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "doctors/dr-01.png",
+      "size": "1024x1536",
+      "transparent": false,
+      "prompt": "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. Professional headshot portrait of a woman in her 40s, Middle Eastern, wearing a light hijab, cardiology doctor, wearing a white coat over teal scrubs, stethoscope around the neck, warm confident smile, arms crossed or relaxed, softly blurred modern hospital background, chest-up framing, eye-level. Fictional person.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1024x1536",
+      "actualSize": "1024x1536",
+      "selectedVariant": 2
+    },
+    {
+      "path": "doctors/dr-02.png",
+      "size": "1024x1536",
+      "transparent": false,
+      "prompt": "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. Professional headshot portrait of a man in his 50s, Black, short gray beard, neurology doctor, wearing a white coat over light blue shirt and tie, stethoscope around the neck, warm confident smile, arms crossed or relaxed, softly blurred modern hospital background, chest-up framing, eye-level. Fictional person.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1024x1536",
+      "actualSize": "1024x1536",
+      "selectedVariant": 1
+    },
+    {
+      "path": "doctors/dr-03.png",
+      "size": "1024x1536",
+      "transparent": false,
+      "prompt": "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. Professional headshot portrait of a woman in her 30s, East Asian, pediatrics doctor, wearing a white coat over pastel pink scrubs, stethoscope around the neck, warm confident smile, arms crossed or relaxed, softly blurred modern hospital background, chest-up framing, eye-level. Fictional person.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1024x1536",
+      "actualSize": "1024x1536",
+      "selectedVariant": 1
+    },
+    {
+      "path": "doctors/dr-04.png",
+      "size": "1024x1536",
+      "transparent": false,
+      "prompt": "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. Professional headshot portrait of a man in his 30s, South Asian, orthopedics doctor, wearing a white coat over navy scrubs, stethoscope around the neck, warm confident smile, arms crossed or relaxed, softly blurred modern hospital background, chest-up framing, eye-level. Fictional person.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1024x1536",
+      "actualSize": "1024x1536",
+      "selectedVariant": 1
+    },
+    {
+      "path": "doctors/dr-05.png",
+      "size": "1024x1536",
+      "transparent": false,
+      "prompt": "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. Professional headshot portrait of a woman in her 50s, European, silver hair, oncology doctor, wearing a white coat over white blouse, stethoscope around the neck, warm confident smile, arms crossed or relaxed, softly blurred modern hospital background, chest-up framing, eye-level. Fictional person.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1024x1536",
+      "actualSize": "1024x1536",
+      "selectedVariant": 1
+    },
+    {
+      "path": "doctors/dr-06.png",
+      "size": "1024x1536",
+      "transparent": false,
+      "prompt": "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. Professional headshot portrait of a man in his 40s, Latino, general surgery doctor, wearing a white coat over teal surgical scrubs and cap, stethoscope around the neck, warm confident smile, arms crossed or relaxed, softly blurred modern hospital background, chest-up framing, eye-level. Fictional person.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1024x1536",
+      "actualSize": "1024x1536",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/banners/banner-checkup.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Floating 3D composition of a clipboard, stethoscope, heart icon and blood test tube on a soft teal-to-white gradient background, playful premium style, empty space on the left for text, no text\nPremium polished 3D render, clean rounded forms, soft studio lighting. No text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/banners/banner-pharmacy.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Floating 3D pills, capsules and generic medicine bottles bursting outward on a soft mint gradient background, dynamic and clean, empty left side, no text\nPremium polished 3D render, clean rounded forms, soft studio lighting. No text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/banners/banner-devices.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Modern blood pressure monitor, smartwatch with heart rate and pulse oximeter floating on a soft blue gradient with glowing light rings, empty left side, no text\nPremium polished 3D render, clean rounded forms, soft studio lighting. No text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/banners/banner-home-lab.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. A friendly lab technician taking a blood sample from a smiling woman on a sofa at home, bright cozy living room.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/banners/banner-flash-sale.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Energetic 3D scene of shopping bag with medical cross, gift box and coins on a vibrant coral-to-orange gradient, celebration confetti, empty left side, no text\nPremium polished 3D render, clean rounded forms, soft studio lighting. No text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/banners/banner-telemedicine.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Woman at home on a video call with a doctor on her laptop screen, warm cozy light.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/banners/banner-wellness.png",
+      "size": "1536x1024",
+      "transparent": false,
+      "prompt": "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Yoga mat, water bottle, fresh fruits, and vitamins arranged in a calm sunlit room, soft green tones.\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+      "requestedSize": "1536x1024",
+      "actualSize": "1536x1024",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/categories/lab-tests.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a rack of blood test tubes with a drop.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a red accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/categories/health-packages.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of an open gift box with a medical cross and a heart coming out.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a teal accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/categories/pharmacy.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a medicine bottle with capsules.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a green accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/categories/medical-devices.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a digital blood pressure monitor.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a blue accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/categories/mobility.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a modern wheelchair.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a slate accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/categories/consultations.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a smartphone showing a video call with a doctor icon.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a indigo accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/categories/wellness.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a lotus flower with a water drop.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a lavender accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/categories/mother-baby.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a baby bottle with a small heart.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a pink accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/categories/personal-care.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a skincare pump bottle with a leaf.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a peach accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/categories/first-aid.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a red first-aid kit box.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a red accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/bp-monitor.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Digital upper-arm blood pressure monitor with cuff, white and teal\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/glucometer.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Compact glucometer with test strips and a lancet pen\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/pulse-oximeter.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Fingertip pulse oximeter with a small digital display\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/products/thermometer.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Infrared forehead thermometer, white with a teal button\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/nebulizer.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Portable compressor nebulizer with a mask\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/stethoscope.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Professional stethoscope, teal tubing, coiled\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/weight-scale.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Smart glass bathroom scale, top view at an angle\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/heating-pad.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Soft electric heating pad, folded, gray fabric\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/knee-brace.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Adjustable orthopedic knee brace, black and teal\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/products/back-support.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Lumbar back support belt\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/wheelchair.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Lightweight foldable wheelchair, modern design\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/products/walker.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Aluminum rollator walker with seat\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/products/crutches.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Pair of adjustable aluminum crutches\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 1
+    },
+    {
+      "path": "marketplace/products/hospital-bed.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Home care electric hospital bed, white\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    },
+    {
+      "path": "marketplace/products/first-aid-kit.png",
+      "size": "1024x1024",
+      "transparent": true,
+      "prompt": "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Compact first aid kit, open, showing bandages and supplies\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+      "requestedSize": "1024x1024",
+      "actualSize": "1254x1254",
+      "selectedVariant": 2
+    }
+  ]
+}
