@@ -1,0 +1,546 @@
+﻿[
+    {
+        "path":  "public\\images\\about\\lab.png",
+        "sha256":  "1C66E908F42E539927321A45C4B1916B94AF5C78503975823C05B3F4EEC84189"
+    },
+    {
+        "path":  "public\\images\\about\\patient-care.png",
+        "sha256":  "6F3B82373F6A6DC77BA759FAE78C71D5CD6D2EC07F6571B503E390D36C228B20"
+    },
+    {
+        "path":  "public\\images\\about\\team-meeting.png",
+        "sha256":  "CA0999003DE9B820E2AA2342AFFB7C4FF0449FF8F5E90C7F2659AB3E2331A52A"
+    },
+    {
+        "path":  "public\\images\\about\\technology.png",
+        "sha256":  "01D7EB948D29469D0B9B21067E848147433748367E6D4EF60E1337A087F272A0"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-01.png",
+        "sha256":  "5D95399A72F3578AE505E6C347A512063742566BB13B2B416C00BB9348D95354"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-02.png",
+        "sha256":  "503129D112999684481CAB7B3DEDF6563232ADD1B9F2059CFCAAD93E30AB86F8"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-03.png",
+        "sha256":  "0F8A93900A8FD1FD16DD86056D9745B6C131EA4B2AC27619F332DF6257E22C21"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-04.png",
+        "sha256":  "D325A15AD9CCC92491B74D871AA05F01B2AF35249342BBBC1958DF2A85EF48C7"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-05.png",
+        "sha256":  "8471187349146FC91DAC510AFDB354CEEECD5D3B8C4B1E999A8ECB98C18669FF"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-06.png",
+        "sha256":  "0E6BD7E9072636A1CB485A14D20176C7A570032E3A10C6B46AA9F84D23A7B027"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-07.png",
+        "sha256":  "62903116E129294FCAE0E331521AD16FDE42B5009D5FD75763DECC170666FB29"
+    },
+    {
+        "path":  "public\\images\\dashboard\\avatar-08.png",
+        "sha256":  "A78BB813304F63206336A8FCDE74142109559225AEE06059B8B10E018CBEEC02"
+    },
+    {
+        "path":  "public\\images\\departments\\anesthesiology.png",
+        "sha256":  "0E27A86CC947A692DB36C6706E1298FA8EA26A477B0A58D009E2D6C0593DE2C8"
+    },
+    {
+        "path":  "public\\images\\departments\\cardiology.png",
+        "sha256":  "A45C9BDBB369EEB8D4D24BAB189F94DE0FEFA69C7CD45BF779CCCF1F6252E215"
+    },
+    {
+        "path":  "public\\images\\departments\\dentistry.png",
+        "sha256":  "894CCAA2E71861BABB44CA2A3942F1242AFB97239FFA96BF07F8C8330C38E626"
+    },
+    {
+        "path":  "public\\images\\departments\\dermatology.png",
+        "sha256":  "608D78EB618FAE3A1EACC50A0F7F65C8D62C4BE1A2A3F460D087348FE4A3D342"
+    },
+    {
+        "path":  "public\\images\\departments\\emergency.png",
+        "sha256":  "760CADE261B5B9EC8D4A2FED7CB741C97FBDE9D4D8134F3CF9C096FC565FD01B"
+    },
+    {
+        "path":  "public\\images\\departments\\endocrinology.png",
+        "sha256":  "DCF3CE756F6ADF8878C3FA3C6084B5E979B70974CFBB005E5DB73104492B8E28"
+    },
+    {
+        "path":  "public\\images\\departments\\ent.png",
+        "sha256":  "7B034823EB208726DC2430778D36FD4AB884CC2D48F20E4AE86D97E6673A63BE"
+    },
+    {
+        "path":  "public\\images\\departments\\gastroenterology.png",
+        "sha256":  "1860897ABA691D5805F5B562C9B1E4A3807D93F3F04F55A99464C00351124100"
+    },
+    {
+        "path":  "public\\images\\departments\\general-surgery.png",
+        "sha256":  "312DC5957BED8529E6AAFD3F7ECCDB4DDA3F9CAB25B9BC1AD3F2B7EE5443D08E"
+    },
+    {
+        "path":  "public\\images\\departments\\icu.png",
+        "sha256":  "96E78F55645753FBE30C4B460DA929C768AE3F666F8F9EA8D877A4AF1C02A91E"
+    },
+    {
+        "path":  "public\\images\\departments\\internal-medicine.png",
+        "sha256":  "1990E685CFDB957B288BAB22012A7F5239720B6591A3788E3E8AD9308DC74B45"
+    },
+    {
+        "path":  "public\\images\\departments\\neonatology.png",
+        "sha256":  "15283BADA4913A4275343DB191D7C0BF6A1108EC81E74FEC97BAD5BDC9AD932A"
+    },
+    {
+        "path":  "public\\images\\departments\\nephrology.png",
+        "sha256":  "B9E22E903B6ACB694F9CF7F839D0133C17A17F2A6D90D871E064EFC5875C7C9F"
+    },
+    {
+        "path":  "public\\images\\departments\\neurology.png",
+        "sha256":  "324E086C90A3ABD6C8E14C02836BCF090C9AF3357B01145AFBDA91F87F982896"
+    },
+    {
+        "path":  "public\\images\\departments\\neurosurgery.png",
+        "sha256":  "C469DCCCA8A3B44CC1C097F4BF5C8079FCD59940FD3E968159F6758874D3B3BC"
+    },
+    {
+        "path":  "public\\images\\departments\\nutrition.png",
+        "sha256":  "F3E6FBC98EFC4CDE793861838216ABCCD8AA94AEAAB9EBDD480AD15F9D1DAC83"
+    },
+    {
+        "path":  "public\\images\\departments\\obstetrics-gynecology.png",
+        "sha256":  "6DC4B416DBB44E4DE5AE585A15004E8D299D6E9F6170B212148BFA0440FEB0D4"
+    },
+    {
+        "path":  "public\\images\\departments\\oncology.png",
+        "sha256":  "9D0979D78B1E8E37EFA2B3C2ADC1618933336A8FCBD20F75FA61011BF1A52871"
+    },
+    {
+        "path":  "public\\images\\departments\\ophthalmology.png",
+        "sha256":  "F315A8E9396EAB72ECD23BAE2C307E344A576DBB8212FF2E429B09A66B2C8163"
+    },
+    {
+        "path":  "public\\images\\departments\\orthopedics.png",
+        "sha256":  "87D9D9D6467F05A03E37608F06D98DB7AFC36567AC4AEC285BDC62DD735FEBE0"
+    },
+    {
+        "path":  "public\\images\\departments\\pathology-lab.png",
+        "sha256":  "A31DE2E4A2C3D6C3710A02EED72F0F71ACFCE60D59A8921ED0E62E02AD5DBA90"
+    },
+    {
+        "path":  "public\\images\\departments\\pediatrics.png",
+        "sha256":  "0E7AA8FAA4DFD5E4B10CD3C4C599C4B3ED005C1586E6522824E0F12CB9BF9AFA"
+    },
+    {
+        "path":  "public\\images\\departments\\pharmacy.png",
+        "sha256":  "382ADB844E315C362748ACAADBFC2F6EBAB8A04D9F682DF5D6249E2C8F15CB2B"
+    },
+    {
+        "path":  "public\\images\\departments\\physiotherapy.png",
+        "sha256":  "169FB8D7C31D3BF381E1F145ED51AE6A8AE412D9CCFDBF12CB32C7F385A0903D"
+    },
+    {
+        "path":  "public\\images\\departments\\plastic-surgery.png",
+        "sha256":  "FBE6E04399DAE7F4CCC7D03D266D08FB1BBBF315FCB6FE0E62907CDEA9C94C86"
+    },
+    {
+        "path":  "public\\images\\departments\\psychiatry.png",
+        "sha256":  "4546F7E2ADC6B4647F14750890701023024E4490C8184385BC509E670FBC6CDB"
+    },
+    {
+        "path":  "public\\images\\departments\\pulmonology.png",
+        "sha256":  "FEBA4CECE4B53327CE3ACF15E069087739E3E4562BD9A85C698EB0A98FC395E9"
+    },
+    {
+        "path":  "public\\images\\departments\\radiology.png",
+        "sha256":  "0EFEAEB0D294EC43D64354587E7ADD5D1C30B3754FFB5D37996F47B16E460363"
+    },
+    {
+        "path":  "public\\images\\departments\\urology.png",
+        "sha256":  "87EC8E6C0DF91D4EE74A3E98391683E64FF40B7955ED36C07EF6F86046FB6283"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-01.png",
+        "sha256":  "AF00CE7662350B1EB9C757BB616E89CAD7C79B87CA638A6F249D1C93E8DCFD2D"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-02.png",
+        "sha256":  "7C183D34B419B677DFDFE97A9AF2151298F6E79C80B185915D7EBC9B12068E2F"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-03.png",
+        "sha256":  "23B1C8F8E2740D50BF10BBD5553566BCF4A84CEE5FC4A6D8D27FD82559C17ABE"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-04.png",
+        "sha256":  "8B794964FE87A471D456AF9396BD791B6E5CAC7BD1CE321AB8C72264BB60CD55"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-05.png",
+        "sha256":  "B102FEDD9E77C1A86331D6BE0404723905DE0F19044F6043305F6C904D930B46"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-06.png",
+        "sha256":  "02AD6EE011EE771FA58AB86F056DBE849FF2619CBDD56F86F436AD859E431C3E"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-07.png",
+        "sha256":  "7E3E1B013267E1B0ABD9295D24F0BFF2C4F544C46AA346934B039331E73467B7"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-08.png",
+        "sha256":  "F91C39EC8F6AA0653035825E48B50BB89C12948D507A5686EDD94125DDF9F924"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-09.png",
+        "sha256":  "37120DDE89BCE8ABC0EF76C5C7D22E5F72977E6F842DAEBF91BB75793F8DA9AB"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-10.png",
+        "sha256":  "2111DC618F2F3F04F33098FD190648FF27200C7B249455671FFF032D20CB6208"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-11.png",
+        "sha256":  "083710F5A8AE56556F2F894AC49A5888C3C2B88F390D9CC5FBDCD8245E392EE1"
+    },
+    {
+        "path":  "public\\images\\doctors\\dr-12.png",
+        "sha256":  "EB2B0663B41DEF89052593CE26302C32A39C575406939F73FB1AC4841EB0802B"
+    },
+    {
+        "path":  "public\\images\\hero\\care-chat.png",
+        "sha256":  "AC39DEE6DD12547966562ED90AC1CC4095283CD634F5F6BD42E67527F3240F60"
+    },
+    {
+        "path":  "public\\images\\hero\\community.png",
+        "sha256":  "8C0C8D0E2C0C059DE2991661DD6BA2DCA8AF8CA00A4ABE654F9D035E433658AC"
+    },
+    {
+        "path":  "public\\images\\hero\\contact.png",
+        "sha256":  "004038F4A8FF4DDC466F5FBBECA6521E439BE719552525DD3F801351A824D55C"
+    },
+    {
+        "path":  "public\\images\\hero\\doctors.png",
+        "sha256":  "7AD5EB0297E107B452F7CD81534C13B4195488FB9F656AFD87CC170727DC2247"
+    },
+    {
+        "path":  "public\\images\\hero\\emergency.png",
+        "sha256":  "6EE1FB83E9A30E06F1E63C3EAA3A2CC41FCA556D0705FEE67A8EEA293131BD09"
+    },
+    {
+        "path":  "public\\images\\hero\\home-hero-alt.png",
+        "sha256":  "8FC918A861CF787F96556B44C6B73CF81443B3D4417762080A2ACB8693B4D726"
+    },
+    {
+        "path":  "public\\images\\hero\\home-hero.png",
+        "sha256":  "6B027F7CCC125CAA1EA98123D2559F423F0F43CDC8729238A86E16BEC57C3332"
+    },
+    {
+        "path":  "public\\images\\hero\\insurance.png",
+        "sha256":  "E9F2672E4F1714E30EBC6E12CC1C690D5B25C5AC979EB34DDE36E8426D3EC697"
+    },
+    {
+        "path":  "public\\images\\hero\\marketplace.png",
+        "sha256":  "A447F33B7295AF524863455FE60351ACDD8D8C60A971448BC97366505D01A665"
+    },
+    {
+        "path":  "public\\images\\hero\\services.png",
+        "sha256":  "8BC28C8D3FACCFB322953B3DC68180B604C481CBB0F713C679570B3E51141554"
+    },
+    {
+        "path":  "public\\images\\hero\\staff-chat.png",
+        "sha256":  "CA8F06B819BB9EC4FF7AEE8BCBA1138F1DCFDCEB7C9B17D511AAE43D46A89D1C"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\anesthesiology.png",
+        "sha256":  "3F9939C22B641FCE5EF642C50638D3D7B8F4B1A8F40EF252F7BA1FF5576FF7AF"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\cardiology.png",
+        "sha256":  "490054FE1749F7622319C9071DCF4F0B0389900103842A8092E10B9E0F001F0D"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\dentistry.png",
+        "sha256":  "6B6A418A6E5B327BAF24DE291C5321DD61BD16FFD39CC0E14290EAC19D9F071D"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\dermatology.png",
+        "sha256":  "0476577DA09A906BA1D38B7E16681668BE424EE5DBA0FEBD13822F0E94712CEC"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\emergency.png",
+        "sha256":  "7519802021D76ACC5FA3A997F6BBFF22E8D6689B2DA7F1A12D4A8830AB6C6A6F"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\endocrinology.png",
+        "sha256":  "98F79E088BA5CC77B19418A6A5F6B55A91E21C5F5B0A5AB4B3EC286C00971F6D"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\ent.png",
+        "sha256":  "24D43CB39B3AA886DE97979F7773A35CDA2E89432B132508CA97773B2B8F9A7B"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\gastroenterology.png",
+        "sha256":  "555B6125B523D0C52EFC8E63ED8359E59B07D5CAE107FB72FC8D92377D3724B0"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\general-surgery.png",
+        "sha256":  "BA328E1C77D65A32D3D2B8812026025C287A932A02DB2B052D9CD3822EE1E161"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\icu.png",
+        "sha256":  "E028CE723D1A792E30A5A0C89AD3714936DA9C13B53BFC3C3F766CC30A514AF4"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\internal-medicine.png",
+        "sha256":  "22F88FDD20718F8C79494049E1D9074E414848E9F325EE07F66CE1F586D6DD12"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\neonatology.png",
+        "sha256":  "59E37C73974D7E822CC0C01420954B7D1053F41E01F80610CF19971F2AA3DD71"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\nephrology.png",
+        "sha256":  "DD73B155FB12A55873FC2F1AD01B806CD1FC53D4B2A6CB121C69A50927240D40"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\neurology.png",
+        "sha256":  "2737A3812B0EF59EC5E4A29E479208A70EB99E52961AC8242AA6BD6D282D5A14"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\neurosurgery.png",
+        "sha256":  "A7B14A413D6AA09954CC40C952AA8C3306210D5F37EE10842130F7AB441DE075"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\nutrition.png",
+        "sha256":  "E5C9E0641DBC33C7C0FB24B646D2CF62DA523A3F9B039020DA5A9C737E40B5F1"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\obstetrics-gynecology.png",
+        "sha256":  "42F2434F97DF174AB1867310E112530A72B448EAD46B51D9EDBEB81F314A83D4"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\oncology.png",
+        "sha256":  "4DC9BB15949C190EDA39334D04BF000725B38CB0C8004ACDE4203F5A3A2F1F93"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\ophthalmology.png",
+        "sha256":  "829E92A1F50CA646D1E9204B4F8143D490BD12BDC90372A540105650EB570DBE"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\orthopedics.png",
+        "sha256":  "6D71B721D949F32A716FDAE4E687F78A15737C99B6F0CDCDF12B7BA7067A9C21"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\pathology-lab.png",
+        "sha256":  "7A3A1F807826ACF81FACC979ECD3C09ED0353C79E277B1F3B396994C1570C553"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\pediatrics.png",
+        "sha256":  "51EB261649E059589E5411E42A0B8BCA6355BAB4B25F0D310444ADEDA7CE541C"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\pharmacy.png",
+        "sha256":  "E77FF4459A7FEFA9140485D5B1FB73D609053A5F1119C0E8AA4BC3253479B3EC"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\physiotherapy.png",
+        "sha256":  "049232E02F72FFE2C1D366681CD9AED2BD715B9DA25BBF21BEF048203DC0EA7A"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\plastic-surgery.png",
+        "sha256":  "4B57DCC5593EB72281B98B60B4FC01240BAF8579BAB4B80247F3451CA0B98D74"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\psychiatry.png",
+        "sha256":  "BB3C4E9F299AA374A02454D76D5CA6D6A0B8CBBBD6905A96BC3E18EE5EB5E017"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\pulmonology.png",
+        "sha256":  "9EEECCA256DD590A8E39954C898A34D8C479F7ECD0D7CCF1CFE79A4BAD3D1A8A"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\radiology.png",
+        "sha256":  "EAC402F868D60047B55C4D708A4C40096D5FB6B068DBFAD306CFFB6AFA55CFE8"
+    },
+    {
+        "path":  "public\\images\\icons\\departments\\urology.png",
+        "sha256":  "543371821711AE0348CC7F53CB7B95E1BC3F49B9A4CBDBF9B3A22E95BAA710BD"
+    },
+    {
+        "path":  "public\\images\\marketplace\\banners\\banner-checkup.png",
+        "sha256":  "265A713B4817D645C6A5A94954BD2F34B643E645AF8C8D7502F45EC2D6B9D201"
+    },
+    {
+        "path":  "public\\images\\marketplace\\banners\\banner-devices.png",
+        "sha256":  "18ED33E173489BD16FE5EDB638DECE86B0DB37A5E5AECBF4F3984E8380F76C3E"
+    },
+    {
+        "path":  "public\\images\\marketplace\\banners\\banner-flash-sale.png",
+        "sha256":  "25AE74FCC391712CDAB69E1F62C434DE88206F0643070E7AC4204C8E3FC59DA0"
+    },
+    {
+        "path":  "public\\images\\marketplace\\banners\\banner-home-lab.png",
+        "sha256":  "C0726085DC62F368AE8DD768F94CAECA0C3E202244E3DF8E49C4706C355E691D"
+    },
+    {
+        "path":  "public\\images\\marketplace\\banners\\banner-pharmacy.png",
+        "sha256":  "5A668B2D7795DEE15C4C639E2FFE7F053CEF5474771D2212B04D2189E4AC0BAC"
+    },
+    {
+        "path":  "public\\images\\marketplace\\banners\\banner-telemedicine.png",
+        "sha256":  "2655118AF80DDAB628C28A27938DF876803DE89E62A8E85C532F0EF146BE9D67"
+    },
+    {
+        "path":  "public\\images\\marketplace\\banners\\banner-wellness.png",
+        "sha256":  "AADA565ABA7108A086ABB6B11C4DB63ECC28268008B734A1283166D667C4535F"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\consultations.png",
+        "sha256":  "5E8FF443E5F61878C676897AC1078E44C835B6CFC3A761898B813872B6C4E560"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\first-aid.png",
+        "sha256":  "0B0D8FB6A251765B7AC3DA119DEEA066C33206D86A0A6F66A5A7099E9F2CCDA7"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\health-packages.png",
+        "sha256":  "2666ACDB85DEA0815496A9412AC8D872870C73435FB20BD648B251E88F8365AA"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\lab-tests.png",
+        "sha256":  "E53D6B77CDF7C7C71826A48FEC28E314106D50D5901A70DC6278D111B7D3CE36"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\medical-devices.png",
+        "sha256":  "9859841F6ADB29B72C75EBBAD9845F310AAB88140C21BF6B7F108C414A9FA379"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\mobility.png",
+        "sha256":  "05AFD21224DE85DE13F853547D41782E8B72DC356080C8D1A43202A1764262D6"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\mother-baby.png",
+        "sha256":  "85EA216FBDF3096BE614055C7321B3DA861B1C837BDE32E00E281B3322B49DDE"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\personal-care.png",
+        "sha256":  "5AD2271F617184EE40E50041F967FAA50DA09442C82441346F7A5C1B9C8811EA"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\pharmacy.png",
+        "sha256":  "96D47D056987C056E3BC6781EDA23C89BC93564F29FD8803BAEA1F077470045F"
+    },
+    {
+        "path":  "public\\images\\marketplace\\categories\\wellness.png",
+        "sha256":  "F1471BAC48438FBE2CD1B67AE36E6A43B2A147ECF9DC5B6D731FCACA1012C359"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\baby-formula.png",
+        "sha256":  "DA535A784956A56F9B8F684AD0D91FBBBED6520E8FABAF66E8EF7738C0757A8D"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\baby-thermometer.png",
+        "sha256":  "CE6D8D3E9CCDEFEE2672DA07436596A5F0569C4DF8E289413CFBA35A46C8AD2D"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\back-support.png",
+        "sha256":  "9FE0C1C2DF8E6FB6334870C4BEC7AD76AA0A2828144DA285F5E7B781B37C71B9"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\bp-monitor.png",
+        "sha256":  "A19FB9A40ECF01342D28D249E12DDFFD5BE3B0636EEE13FA0D0211DCD1510912"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\cough-syrup.png",
+        "sha256":  "5ACABA291382765868605A001047A74A71B897502AA55F683773D07E26EF9BFF"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\crutches.png",
+        "sha256":  "C2C933D33E0923B2D627612F8787F1DF8F4B8E590DFF88951652CFD9AEC0A18F"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\face-masks.png",
+        "sha256":  "1C624BF9B5AC52252FC0C711F0EE934381DDF063616F460D72E1F8659892E155"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\first-aid-kit.png",
+        "sha256":  "26DB72099AE6F98E36E00F53F19EF69099681A2E79B08A6C74AB4E9898ABB241"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\gloves.png",
+        "sha256":  "7D1FD9AB563F6F9D769F3767DC99EF1B50BD0521366CC18581DE797C4A09F538"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\glucometer.png",
+        "sha256":  "E96AA3CCCC251C1CCBDE7DBA53F66C1FF3046113D7C0B05ADFDCF06540FF5DBA"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\heating-pad.png",
+        "sha256":  "F1810F9166BA0BCEABE5782AB318EA0BEF8278091D35ADC0D05776327B464329"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\hospital-bed.png",
+        "sha256":  "F9BCA250F2C62EDD426AE7D88EC11EA997C549003DBD81B9800330D78E5E903D"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\knee-brace.png",
+        "sha256":  "5C2CF3F10532DE70979512435DA77FA6345C099A5F7F789908E1E92BBF2D4331"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\nebulizer.png",
+        "sha256":  "BF4EA25BE3E7C4D8D59FE804DD5B5D1C46A14190A7D1385B49F02D32799A61D7"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\omega3.png",
+        "sha256":  "7307FB3E7A5504DABB5498DA776391516EC40053C57B65CCB4CFC8495CC5D718"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\pain-relief.png",
+        "sha256":  "D85C0688E8BDF856FFBFB1B135BFD8554FB6CED5017096574C8BC94284A2DFAF"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\pill-organizer.png",
+        "sha256":  "667F59DB5E81D7E45AFC9FB190518072BD2D4F44A864D897010E8305A4BBE1D3"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\protein.png",
+        "sha256":  "54563CACF5A6EB37B13DCA2F1DF228E3817AEADF026DD032CEC932F7E7D03BB7"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\pulse-oximeter.png",
+        "sha256":  "C42FDD1378A462390B89BD51427A2B2308698FFF4C2066F2DA2C0AD2EC20E411"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\sanitizer.png",
+        "sha256":  "41BA132C2B195061B1ADF79039A0BB89EFE3187A71BD73C95C69FE8A983C61BD"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\stethoscope.png",
+        "sha256":  "A166993D4ADDF27FD52E235213D3D07068A6A227FACEADFEF6DC09AFDB353460"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\thermometer.png",
+        "sha256":  "CEBD7F9AED22BE5BF9A40D79BACFD305FF18524A80D08A77F996499C81F463FC"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\vitamins.png",
+        "sha256":  "3343B0BD4B195D5CEB495B1DFEE784D7326491F57BAC81930B3D24C012028B6E"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\walker.png",
+        "sha256":  "F2D434432805D3F55AEB2B5A2DD8506ABEC38DAC7BBDE5703EE5851A2E6EA18A"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\weight-scale.png",
+        "sha256":  "F52AA0AE58B56A30A7950170AF0C1E423C0796A6D5A01A7CA3E5E2D7B3DA3E73"
+    },
+    {
+        "path":  "public\\images\\marketplace\\products\\wheelchair.png",
+        "sha256":  "491DD386DEBA845E8DEF342CBFE498473B3E6A7A8297BC3E09B47807ACCA9AA7"
+    }
+]

@@ -1,0 +1,514 @@
+﻿{
+  "selected": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      6,
+      1
+    ],
+    [
+      7,
+      1
+    ],
+    [
+      8,
+      1
+    ],
+    [
+      9,
+      2
+    ],
+    [
+      10,
+      2
+    ],
+    [
+      11,
+      2
+    ],
+    [
+      12,
+      1
+    ],
+    [
+      13,
+      1
+    ],
+    [
+      14,
+      1
+    ],
+    [
+      15,
+      2
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      17,
+      1
+    ],
+    [
+      18,
+      2
+    ],
+    [
+      19,
+      2
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      21,
+      2
+    ],
+    [
+      22,
+      1
+    ],
+    [
+      23,
+      2
+    ],
+    [
+      24,
+      3
+    ],
+    [
+      25,
+      1
+    ],
+    [
+      27,
+      2
+    ],
+    [
+      26,
+      3
+    ],
+    [
+      28,
+      2
+    ],
+    [
+      29,
+      2
+    ],
+    [
+      30,
+      2
+    ]
+  ],
+  "variants": [
+    {
+      "index": 0,
+      "variant": 1,
+      "path": "marketplace/products/sunscreen.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-1b32d251-b68e-4678-ba48-aec03085eca2.png"
+    },
+    {
+      "index": 0,
+      "variant": 2,
+      "path": "marketplace/products/sunscreen.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-922a5cc3-65e2-4570-abec-f05dc93bba4c.png"
+    },
+    {
+      "index": 1,
+      "variant": 1,
+      "path": "marketplace/products/moisturizer.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-15f46afa-fff5-44d7-b10e-55b188feea08.png"
+    },
+    {
+      "index": 1,
+      "variant": 2,
+      "path": "marketplace/products/moisturizer.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-6aaec69b-609a-42e7-8497-ea9409c132f5.png"
+    },
+    {
+      "index": 2,
+      "variant": 1,
+      "path": "marketplace/products/test-kit.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-203dd4b0-5981-4875-a477-eff923333afe.png"
+    },
+    {
+      "index": 2,
+      "variant": 2,
+      "path": "marketplace/products/test-kit.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-4514879f-e999-450e-afae-24c50dbb9d05.png"
+    },
+    {
+      "index": 3,
+      "variant": 1,
+      "path": "marketplace/products/smartwatch.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-9613ca39-b3c7-4aa3-b561-7f2abd14ea65.png"
+    },
+    {
+      "index": 3,
+      "variant": 2,
+      "path": "marketplace/products/smartwatch.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-61f37ebc-8ae4-4b48-acc4-7c9a5362c501.png"
+    },
+    {
+      "index": 4,
+      "variant": 1,
+      "path": "services/pkg-full-body.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-bc20abdf-62c1-494f-9e51-38b0fb70cd24.png"
+    },
+    {
+      "index": 4,
+      "variant": 2,
+      "path": "services/pkg-full-body.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-ae88640d-3c0d-4b44-8bd3-72f365158b14.png"
+    },
+    {
+      "index": 5,
+      "variant": 1,
+      "path": "services/pkg-cardiac.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-bcac1d54-f8db-4a0a-a8e3-c10b13029ca2.png"
+    },
+    {
+      "index": 5,
+      "variant": 2,
+      "path": "services/pkg-cardiac.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-43cc1a05-a554-4ce4-b225-3e72b97bd7ab.png"
+    },
+    {
+      "index": 6,
+      "variant": 1,
+      "path": "services/pkg-diabetes.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-8c5d2120-e3a3-473b-8184-f1ddf89465c7.png"
+    },
+    {
+      "index": 6,
+      "variant": 2,
+      "path": "services/pkg-diabetes.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-e55dc7e6-2b9c-42cd-952c-5d90d7789fa9.png"
+    },
+    {
+      "index": 7,
+      "variant": 1,
+      "path": "services/pkg-women.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-efc7ef52-ca98-4662-b62f-7c707cfe4a45.png"
+    },
+    {
+      "index": 7,
+      "variant": 2,
+      "path": "services/pkg-women.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-a27ddcf9-cc66-4ff9-b2c9-fcec5ff5ce31.png"
+    },
+    {
+      "index": 8,
+      "variant": 1,
+      "path": "services/pkg-senior.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-c6c23d8b-0be5-4dbb-97bc-0f6b6ed5ddc3.png"
+    },
+    {
+      "index": 8,
+      "variant": 2,
+      "path": "services/pkg-senior.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-ba30b167-5d0b-4fcb-96bb-66d32076032c.png"
+    },
+    {
+      "index": 9,
+      "variant": 1,
+      "path": "services/pkg-child.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-2912973f-f200-4ea7-ab33-6f31c1cdecf5.png"
+    },
+    {
+      "index": 9,
+      "variant": 2,
+      "path": "services/pkg-child.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-f9630085-3222-46c6-9c34-7c19d6a62a88.png"
+    },
+    {
+      "index": 10,
+      "variant": 1,
+      "path": "services/test-blood.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-ec8814a9-3cda-4217-aed5-05e1e4b78306.png"
+    },
+    {
+      "index": 10,
+      "variant": 2,
+      "path": "services/test-blood.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-d790aa0c-7a3f-4415-a4b7-9412254ae4e2.png"
+    },
+    {
+      "index": 11,
+      "variant": 1,
+      "path": "services/test-thyroid.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-17bd678a-c597-4d8c-8ce7-efb4b3e028c4.png"
+    },
+    {
+      "index": 11,
+      "variant": 2,
+      "path": "services/test-thyroid.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-27426ae8-a964-4397-9d9f-2a44e6a48010.png"
+    },
+    {
+      "index": 12,
+      "variant": 1,
+      "path": "services/test-vitamin.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-ff92823c-75ae-4179-9803-15f28ed932fd.png"
+    },
+    {
+      "index": 12,
+      "variant": 2,
+      "path": "services/test-vitamin.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-cf627438-42a9-442f-8656-7736a208fcee.png"
+    },
+    {
+      "index": 13,
+      "variant": 1,
+      "path": "auth/signin.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-8331624e-b05c-43bf-9dc3-77ee0ce3c3e4.png"
+    },
+    {
+      "index": 13,
+      "variant": 2,
+      "path": "auth/signin.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-1dfdcd40-3115-4bc7-9d37-1214d002788f.png"
+    },
+    {
+      "index": 14,
+      "variant": 1,
+      "path": "auth/signup.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-e05c60a1-528e-4cb9-b9b4-49c12d1465bc.png"
+    },
+    {
+      "index": 14,
+      "variant": 2,
+      "path": "auth/signup.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-748f9052-0d21-4c68-90c6-eb0edb4810fe.png"
+    },
+    {
+      "index": 15,
+      "variant": 1,
+      "path": "auth/forgot-password.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-bac9ca90-0a45-4a99-8e07-511617c40553.png"
+    },
+    {
+      "index": 15,
+      "variant": 2,
+      "path": "auth/forgot-password.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-73b111a8-1c51-467f-8223-97cd1bdcb465.png"
+    },
+    {
+      "index": 16,
+      "variant": 1,
+      "path": "dashboard/empty-appointments.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-48825a2d-617f-40bc-986a-3647a9cee510.png"
+    },
+    {
+      "index": 16,
+      "variant": 2,
+      "path": "dashboard/empty-appointments.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-1c51d43e-9275-45ad-b98d-d14a42c4ed15.png"
+    },
+    {
+      "index": 17,
+      "variant": 1,
+      "path": "dashboard/empty-orders.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-83d554b5-8f3d-4444-89b2-cab2f391b433.png"
+    },
+    {
+      "index": 17,
+      "variant": 2,
+      "path": "dashboard/empty-orders.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-163ae8a4-84a2-44a9-9530-7745518cc48c.png"
+    },
+    {
+      "index": 18,
+      "variant": 1,
+      "path": "dashboard/empty-records.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-462b31cc-a572-4deb-9ec7-dfb885e2a0dd.png"
+    },
+    {
+      "index": 18,
+      "variant": 2,
+      "path": "dashboard/empty-records.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-66b308d1-010b-4b21-b187-153c6810f659.png"
+    },
+    {
+      "index": 19,
+      "variant": 1,
+      "path": "dashboard/empty-messages.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-15383720-d7f3-4014-80db-2a8603bd8f96.png"
+    },
+    {
+      "index": 19,
+      "variant": 2,
+      "path": "dashboard/empty-messages.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-498fd24c-48d9-422f-b8bc-8f1bf79f6d67.png"
+    },
+    {
+      "index": 20,
+      "variant": 1,
+      "path": "dashboard/empty-search.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-40c333c0-4db5-4d31-8bf6-f71189c03d41.png"
+    },
+    {
+      "index": 20,
+      "variant": 2,
+      "path": "dashboard/empty-search.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-96a52eab-7cbf-4cb4-97ec-be308fa902b5.png"
+    },
+    {
+      "index": 21,
+      "variant": 1,
+      "path": "dashboard/success-order.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-0bf9de36-f304-4d53-a439-daf3f925f84e.png"
+    },
+    {
+      "index": 21,
+      "variant": 2,
+      "path": "dashboard/success-order.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-a6a24d52-70f8-4f7c-9011-384c05eace13.png"
+    },
+    {
+      "index": 22,
+      "variant": 1,
+      "path": "dashboard/welcome.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-85027ba8-b1bc-4949-ad90-ef1fe13db80f.png"
+    },
+    {
+      "index": 22,
+      "variant": 2,
+      "path": "dashboard/welcome.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-1f660f9d-a029-4a0a-a24e-e4f872641ca0.png"
+    },
+    {
+      "index": 23,
+      "variant": 1,
+      "path": "dashboard/error-404.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-c5959544-0996-4244-8818-dcdb99b3bd29.png"
+    },
+    {
+      "index": 23,
+      "variant": 2,
+      "path": "dashboard/error-404.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-81433a87-14ed-492d-93c5-1beb99aad84b.png"
+    },
+    {
+      "index": 24,
+      "variant": 1,
+      "path": "dashboard/upload-rx.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-4faf316b-a209-4b89-bc35-d1fe47aac8dc.png"
+    },
+    {
+      "index": 24,
+      "variant": 2,
+      "path": "dashboard/upload-rx.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-b2f68664-500e-4d80-af2a-7c98fe76a402.png"
+    },
+    {
+      "index": 24,
+      "variant": 3,
+      "path": "dashboard/upload-rx.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-9316c6a3-1fc5-433b-b1ff-43d3d5064dc8.png"
+    },
+    {
+      "index": 25,
+      "variant": 1,
+      "path": "blog/heart-health.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-7389f462-1dbe-4661-9b1f-3937e36c7a52.png"
+    },
+    {
+      "index": 25,
+      "variant": 2,
+      "path": "blog/heart-health.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-8ca9b48a-e110-4a03-a0c7-8ef75bcb6093.png"
+    },
+    {
+      "index": 26,
+      "variant": 1,
+      "path": "blog/nutrition.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-85d0ef2d-f49c-411f-8afa-dd7241306f9e.png"
+    },
+    {
+      "index": 26,
+      "variant": 2,
+      "path": "blog/nutrition.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-2937915e-3bab-4787-86d5-a32f25ad1b8c.png"
+    },
+    {
+      "index": 26,
+      "variant": 3,
+      "path": "blog/nutrition.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-6571dfc1-a328-405c-9bae-ba45bd0050e2.png"
+    },
+    {
+      "index": 27,
+      "variant": 1,
+      "path": "blog/mental-health.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-c0f30a04-9850-4e13-af97-28a0798de177.png"
+    },
+    {
+      "index": 27,
+      "variant": 2,
+      "path": "blog/mental-health.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-aac88593-3bd2-4c19-b556-c91b7358014e.png"
+    },
+    {
+      "index": 28,
+      "variant": 1,
+      "path": "blog/sleep.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-cc3b57aa-e325-4aa4-a39b-c6a3d4a5c85f.png"
+    },
+    {
+      "index": 28,
+      "variant": 2,
+      "path": "blog/sleep.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-8e7ad0dd-1b4f-4a2f-adf2-a8cd1f4d6057.png"
+    },
+    {
+      "index": 29,
+      "variant": 1,
+      "path": "blog/child-vaccine.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-cc72c27e-fd03-4757-aa98-bfcf860f189f.png"
+    },
+    {
+      "index": 29,
+      "variant": 2,
+      "path": "blog/child-vaccine.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-3c9ffc1f-204d-424a-a456-141e3bc5c210.png"
+    },
+    {
+      "index": 30,
+      "variant": 1,
+      "path": "blog/diabetes.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-bf9f75b7-dbfb-498a-b3fd-a8c0a1b6d552.png"
+    },
+    {
+      "index": 30,
+      "variant": 2,
+      "path": "blog/diabetes.png",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d17-47c7-7182-9ba8-97ccc937a012\\exec-919ed53d-f536-4b53-8d33-1958907ca7f3.png"
+    }
+  ]
+}
