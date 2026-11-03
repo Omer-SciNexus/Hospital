@@ -1,0 +1,187 @@
+[
+  {
+    "id": 0,
+    "file": "hero/community.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-61e5ce3f-fba0-46ca-afe2-b75eaa78f6e7.png"
+  },
+  {
+    "id": 1,
+    "file": "hero/care-chat.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-3c49a6d5-182a-4d38-a0e1-20c3052c7cca.png"
+  },
+  {
+    "id": 2,
+    "file": "hero/staff-chat.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-4241f15a-96bf-4992-a503-87949edd342f.png"
+  },
+  {
+    "id": 3,
+    "file": "hero/insurance.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-f9b2aed6-7575-49a6-936f-56fbc933b2c3.png"
+  },
+  {
+    "id": 4,
+    "file": "dashboard/empty-staff-chat.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-e1c2ef3d-1d8d-490f-8307-7336b8180193.png"
+  },
+  {
+    "id": 5,
+    "file": "dashboard/empty-community.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-58eff23c-6bbb-4423-9579-72ca4d383a63.png"
+  },
+  {
+    "id": 6,
+    "file": "dashboard/empty-channel.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-de3e671f-2485-4942-9f76-d9edd0256f09.png"
+  },
+  {
+    "id": 7,
+    "file": "dashboard/community-guidelines.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-22a1d159-fba2-4f85-99e3-5d6ddfee01d4.png"
+  },
+  {
+    "id": 8,
+    "file": "dashboard/moved-to-private.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-86fbcb64-0c94-41c5-b576-dbe88151c4c5.png"
+  },
+  {
+    "id": 9,
+    "file": "dashboard/upload-insurance-card.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-d894619e-e7bf-470f-b9be-59b67441c4d1.png"
+  },
+  {
+    "id": 10,
+    "file": "dashboard/empty-insurance.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-57c125e3-58fa-448a-aa8a-0d966508db9f.png"
+  },
+  {
+    "id": 11,
+    "file": "dashboard/empty-claims.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-2f55a80b-3512-4730-a7ac-4fc3ee5aff21.png"
+  },
+  {
+    "id": 12,
+    "file": "dashboard/claim-approved.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-ddf2a19b-face-49a9-b226-a0fc1cab0c6b.png"
+  },
+  {
+    "id": 13,
+    "file": "dashboard/claim-pending.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-25c907a1-82d0-49b2-92eb-fbc2e1abff25.png"
+  },
+  {
+    "id": 14,
+    "file": "dashboard/claim-denied.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-a886e991-6c21-4799-a5eb-2cb5934ea122.png"
+  },
+  {
+    "id": 15,
+    "file": "dashboard/preapproval.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-879ba946-4361-496c-86b1-4b06319bae32.png"
+  },
+  {
+    "id": 16,
+    "file": "icons/community/general.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-0493c34a-179b-486a-9b18-6dccc49367bd.png"
+  },
+  {
+    "id": 17,
+    "file": "icons/community/custom.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-bcf47a98-0a8c-4ab0-8eb0-2acd1ab36c79.png"
+  },
+  {
+    "id": 18,
+    "file": "icons/community/medicines.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-e2c694c2-6ea3-4bf7-b720-282ee3f9932e.png"
+  },
+  {
+    "id": 19,
+    "file": "icons/community/nutrition.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-497a5fcf-9bf2-4ef4-a0b0-e792ac506686.png"
+  },
+  {
+    "id": 20,
+    "file": "icons/community/mental-health.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-1ce72bae-7338-4d1e-9eea-64bac83f2402.png"
+  },
+  {
+    "id": 21,
+    "file": "icons/community/new-parents.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-62725fa7-9ef3-41c9-a8c7-aa4bbfa05214.png"
+  },
+  {
+    "id": 22,
+    "file": "icons/community/diabetes.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-cecf2e8e-4b54-42a3-869f-80cd30627ae6.png"
+  },
+  {
+    "id": 24,
+    "file": "icons/community/fitness-recovery.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-56eef8a3-a9e2-404a-8601-371fb25cf2cc.png"
+  },
+  {
+    "id": 25,
+    "file": "icons/community/caregivers.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-af5f40fc-51e2-4644-98c3-ce50f0a8517b.png"
+  },
+  {
+    "id": 23,
+    "file": "icons/community/heart-health.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-0d4f434b-b68a-4247-bfce-62b34f2b4bff.png"
+  },
+  {
+    "id": 26,
+    "file": "icons/chat/emergency.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-1a1fae23-26a8-428e-a2c2-92286f4d4b02.png"
+  },
+  {
+    "id": 28,
+    "file": "dashboard/nick-avatar-02.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-61cfd1c8-a4de-4912-978d-e16af23ca00d.png"
+  },
+  {
+    "id": 29,
+    "file": "dashboard/nick-avatar-03.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-0a583150-8e1d-44f2-a028-8830587262f6.png"
+  },
+  {
+    "id": 27,
+    "file": "dashboard/nick-avatar-01.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-2937a571-a360-4369-9ef6-12ddcbb1e90b.png"
+  },
+  {
+    "id": 30,
+    "file": "dashboard/nick-avatar-04.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-54533946-d247-4c85-95aa-732a28558d39.png"
+  },
+  {
+    "id": 31,
+    "file": "dashboard/nick-avatar-05.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-9c5a1d4e-c5b9-4a59-8435-f6d5d891b873.png"
+  },
+  {
+    "id": 32,
+    "file": "dashboard/nick-avatar-06.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-4f6e3881-be2a-45ef-8584-a5c1dba9eae5.png"
+  },
+  {
+    "id": 33,
+    "file": "icons/insurance/in-network.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-48c892c7-f1d1-487a-a58f-971c2285ee09.png"
+  },
+  {
+    "id": 34,
+    "file": "icons/insurance/coverage.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-f8a04913-d7ba-4687-97f7-3359bb29d87f.png"
+  },
+  {
+    "id": 35,
+    "file": "icons/insurance/card.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-fb62c1ba-ec42-4c8a-b33a-bd7ff101ec9e.png"
+  },
+  {
+    "id": 36,
+    "file": "icons/insurance/claim.png",
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a19d13-a247-7120-96e9-2cf4ecdc8f4a\\exec-11c68d8a-719a-4f4b-8863-6652051d8bc2.png"
+  }
+]
