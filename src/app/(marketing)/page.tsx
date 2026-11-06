@@ -180,10 +180,10 @@ export default function HomePage() {
       <section className="container-page py-20">
         <div className="grid items-center gap-12 lg:grid-cols-2">
           <Reveal className="grid grid-cols-2 gap-4">
-            <div className="relative aspect-[3/4] overflow-hidden rounded-3xl">
-              <Image src="/images/about/patient-care.png" alt="A nurse caring for a smiling child" fill sizes="(min-width: 1024px) 25vw, 50vw" className="object-cover" />
+            <div className="relative overflow-hidden rounded-3xl">
+              <Image src="/images/about/patient-care.png" alt="A nurse caring for a smiling child" fill sizes="(min-width: 1024px) 25vw, 50vw" className="object-cover object-[70%_center]" />
             </div>
-            <div className="flex flex-col gap-4 pt-12">
+            <div className="flex flex-col gap-4">
               <div className="relative aspect-square overflow-hidden rounded-3xl">
                 <Image src="/images/about/technology.png" alt="Robotic operating room" fill sizes="(min-width: 1024px) 25vw, 50vw" className="object-cover" />
               </div>
