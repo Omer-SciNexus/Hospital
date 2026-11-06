@@ -1,0 +1,668 @@
+﻿[
+    {
+        "file":  "hero/community.png",
+        "generatedSize":  "1536x1024",
+        "finalSize":  "1536x1024",
+        "transparent":  false,
+        "cornerAlpha":  [
+                            255,
+                            255,
+                            255,
+                            255
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  2228843,
+        "sha256":  "8C0C8D0E2C0C059DE2991661DD6BA2DCA8AF8CA00A4ABE654F9D035E433658AC"
+    },
+    {
+        "file":  "hero/care-chat.png",
+        "generatedSize":  "1536x1024",
+        "finalSize":  "1536x1024",
+        "transparent":  false,
+        "cornerAlpha":  [
+                            255,
+                            255,
+                            255,
+                            255
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  2322077,
+        "sha256":  "AC39DEE6DD12547966562ED90AC1CC4095283CD634F5F6BD42E67527F3240F60"
+    },
+    {
+        "file":  "hero/staff-chat.png",
+        "generatedSize":  "1536x1024",
+        "finalSize":  "1536x1024",
+        "transparent":  false,
+        "cornerAlpha":  [
+                            255,
+                            255,
+                            255,
+                            255
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  2103488,
+        "sha256":  "CA8F06B819BB9EC4FF7AEE8BCBA1138F1DCFDCEB7C9B17D511AAE43D46A89D1C"
+    },
+    {
+        "file":  "hero/insurance.png",
+        "generatedSize":  "1536x1024",
+        "finalSize":  "1536x1024",
+        "transparent":  false,
+        "cornerAlpha":  [
+                            255,
+                            255,
+                            255,
+                            255
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  2022441,
+        "sha256":  "E9F2672E4F1714E30EBC6E12CC1C690D5B25C5AC979EB34DDE36E8426D3EC697"
+    },
+    {
+        "file":  "dashboard/empty-staff-chat.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.4968,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  858635,
+        "sha256":  "E7219C272916624CCED3B74F608B7B36FBCF347A85F321377BF4B1B5BE44CE71"
+    },
+    {
+        "file":  "dashboard/empty-community.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            1,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.2173,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  1075376,
+        "sha256":  "D3F6234F2523048809F4B75B38EEA4439DF1768F4DF4EE313BA3A55C58B42E5F"
+    },
+    {
+        "file":  "dashboard/empty-channel.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6606,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  621481,
+        "sha256":  "7EF5F89E4F51FE2C9AF0080379BE226A4A9F48E497FB82D79773BE6F80DD8053"
+    },
+    {
+        "file":  "dashboard/community-guidelines.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5798,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  785880,
+        "sha256":  "532520B76E4C16884D71A38D2C45A1CB93F14B2F60E80DA579944A39DDFF9E51"
+    },
+    {
+        "file":  "dashboard/moved-to-private.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            1,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.4507,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  1083406,
+        "sha256":  "2E66028C6699C54238E7DE86453A3C24F426CB23CB0ECA6E8A72218D6205F8A0"
+    },
+    {
+        "file":  "dashboard/upload-insurance-card.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5103,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  760349,
+        "sha256":  "FE7C3CE61D94E6A321EA13A923C5BB7A25157CEAE774808DE236A3855E81B478"
+    },
+    {
+        "file":  "dashboard/empty-insurance.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5923,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  786946,
+        "sha256":  "EA492058CBBB450C6D0942DE12963F57E65360D46D77472A2AAF5B270B8B2587"
+    },
+    {
+        "file":  "dashboard/empty-claims.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6025,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  649002,
+        "sha256":  "1026A27E12EB5CD3D7C639EF34B3D8AB0BC2EC8201AC8045BA944E7C755CD088"
+    },
+    {
+        "file":  "dashboard/claim-approved.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6653,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  574762,
+        "sha256":  "F5D6ACB3CB12EF558849DA2EC01625FB2154FABE86DF57A0999E73E2DE94F943"
+    },
+    {
+        "file":  "dashboard/claim-pending.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6077,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  657533,
+        "sha256":  "B4A6567E4AF6A3E6618D7848E8EEBD9AB2E42A24E87ACAA1B574D938B6EDE630"
+    },
+    {
+        "file":  "dashboard/claim-denied.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5396,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  733057,
+        "sha256":  "A93863D5335A488FBD4E7A6E09954D3336018F177465555CFA9621460BD66B45"
+    },
+    {
+        "file":  "dashboard/preapproval.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.4397,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  842988,
+        "sha256":  "BE4A9FCE739BD16024C34BB4FCBB9F774DADA660E804349EA4C78C2A6E295DE4"
+    },
+    {
+        "file":  "icons/community/general.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5657,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  720778,
+        "sha256":  "C72ABE195C291E01BFCE5A710A42FE0E9C8E0AC124FAC7443B64D964853C8CA2"
+    },
+    {
+        "file":  "icons/community/custom.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5671,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  793329,
+        "sha256":  "5B3978255C91FD07A6B04D7ADB61D9C8C43994E178C63F20B453C8134CA79A3D"
+    },
+    {
+        "file":  "icons/community/medicines.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            1,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6094,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  786116,
+        "sha256":  "0B278BDAC4EAE2FEBB335358E5299D0962F59A38C33BA72A006B37BBD0881AB3"
+    },
+    {
+        "file":  "icons/community/nutrition.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            1,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5903,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  913351,
+        "sha256":  "A884EB65F71D573FDC45C1975489B6AB8DDC4C2315D56D397A4A08D30369B3B7"
+    },
+    {
+        "file":  "icons/community/mental-health.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            1,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6797,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  644114,
+        "sha256":  "46748D263C893759EC5DE7076DA0961A5712153872946E4FF66CA5518A608050"
+    },
+    {
+        "file":  "icons/community/new-parents.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6553,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  781253,
+        "sha256":  "E02F234A621A496A997B767BC706B01FE38EEFD1F3E3CBBA8C0A97BE7AC073C1"
+    },
+    {
+        "file":  "icons/community/diabetes.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6033,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  816586,
+        "sha256":  "21E40C573B31BCE004EAB398FD4C7E45F12CEB9DC243B9ECB042D68BD849544D"
+    },
+    {
+        "file":  "icons/community/heart-health.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5552,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  846552,
+        "sha256":  "968A5ED70242F4F34E9AC20A12397CD2B1400CE39D9B13EB49881EF21B512459"
+    },
+    {
+        "file":  "icons/community/fitness-recovery.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6265,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  811269,
+        "sha256":  "55AE0B0B27797A776C25D383F26D33CA96A0FFB1E43B72A1BCFBFB460562B246"
+    },
+    {
+        "file":  "icons/community/caregivers.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5818,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  847311,
+        "sha256":  "83383FA6267B3F71C38530CEDC154881A5A4A6FEB56AE85EF8D852AF85D54077"
+    },
+    {
+        "file":  "icons/chat/emergency.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            1,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5784,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  876597,
+        "sha256":  "6DC3BC2DBAFA31A098A6EED8B842156B0F6FE8882A225FB8EB4F291903554526"
+    },
+    {
+        "file":  "dashboard/nick-avatar-01.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.4651,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  1151813,
+        "sha256":  "33312E470883737201ED8424D3E4C2BAF21FCA713BEE518B7A00FB0A0BFD6148"
+    },
+    {
+        "file":  "dashboard/nick-avatar-02.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5249,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  1005631,
+        "sha256":  "B60372CDCEE66A5711C56EF6AC8A7ED6AA92C4CBC88857B0BAAE4BD9C597C2B3"
+    },
+    {
+        "file":  "dashboard/nick-avatar-03.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5273,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  973852,
+        "sha256":  "4279935835DD489A2482B0DAAC6FA4F41C603F57C97BA2BFFC50A0D3E1BA8AE1"
+    },
+    {
+        "file":  "dashboard/nick-avatar-04.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.4885,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  1044025,
+        "sha256":  "D8D60C00F60EB1294BC2DE25C55AF43D7DE33A943DAE57972DCE9BDB357A14F0"
+    },
+    {
+        "file":  "dashboard/nick-avatar-05.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5037,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  1046479,
+        "sha256":  "BF5742BFC9C7F1140C664AC6BCBA0B7B151F4231B29CA342007193D83E52D92A"
+    },
+    {
+        "file":  "dashboard/nick-avatar-06.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.4875,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  1027470,
+        "sha256":  "2E474865FEC00AF58552EB5C5667BB28BF413DB59C18BCE7EC59DCAC2FE4162D"
+    },
+    {
+        "file":  "icons/insurance/in-network.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5552,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  940563,
+        "sha256":  "22FEE6E65D356B236F3591AAFAB0AB88B6FEFC62B53A7BC34DF12861D60243D6"
+    },
+    {
+        "file":  "icons/insurance/coverage.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.6174,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  761398,
+        "sha256":  "45B7013AA2856271CF9BD6C925729127CEB8947FC94CE456AFF6655D8C7E0815"
+    },
+    {
+        "file":  "icons/insurance/card.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  254,
+        "clearSampleFraction":  0.5273,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  813324,
+        "sha256":  "E84E3C62B58F0DC83B158DB54B499A6729A5808226BCEEF82C092B118E097E8C"
+    },
+    {
+        "file":  "icons/insurance/claim.png",
+        "generatedSize":  "1254x1254",
+        "finalSize":  "1024x1024",
+        "transparent":  true,
+        "cornerAlpha":  [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+        "maxSampleAlpha":  255,
+        "clearSampleFraction":  0.5742,
+        "dimensionsPass":  true,
+        "alphaPass":  true,
+        "bytes":  842590,
+        "sha256":  "9969ECCF9DBA05D3DF8638FEE38DE6FDE15A62DCDBF0CB4F3A9A36EB61D42F97"
+    }
+]

@@ -1,0 +1,231 @@
+﻿{
+    "mode":  "built-in image_gen",
+    "count":  31,
+    "generatedVariations":  64,
+    "assets":  [
+                   {
+                       "path":  "marketplace/products/sunscreen.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Dermatology sunscreen tube, white and teal\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "marketplace/products/moisturizer.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Dermatology moisturizer cream jar\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "marketplace/products/test-kit.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Rapid home test kit with cassette and swab\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "marketplace/products/smartwatch.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Health smartwatch showing a heart rate graph on screen\nProfessional e-commerce studio product photo, centered, front three-quarter angle, soft even lighting, subtle natural shadow, generic unbranded clean white and teal packaging, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "services/pkg-full-body.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a human body silhouette with a check mark shield.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a teal accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "services/pkg-cardiac.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a heart inside a shield with a pulse line.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a rose accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "services/pkg-diabetes.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a sugar cube with a drop and a glucose meter.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a amber accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "services/pkg-women.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a female symbol with a flower and heart.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a pink accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "services/pkg-senior.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a walking cane with a heart.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a blue accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "services/pkg-child.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a teddy bear with a stethoscope.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a yellow accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "services/test-blood.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a blood drop with a test tube.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a red accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "services/test-thyroid.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a butterfly-shaped thyroid gland.\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a violet accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "services/test-vitamin.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A 3D icon of a sun with a capsule (vitamin D).\n3D clay-style render, soft rounded shapes, smooth matte finish, pastel teal and white with a orange accent color, soft studio lighting, gentle shadow underneath, centered, three-quarter view, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "auth/signin.png",
+                       "size":  "1024x1536",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. Abstract 3D composition of floating soft teal and white glass shapes, a glowing heart pulse line, small medical cross and shield, on a deep teal-to-blue gradient background, premium and calm, no text\nPremium polished 3D render, soft studio lighting, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "auth/signup.png",
+                       "size":  "1024x1536",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. A happy diverse family (parents, child and grandparent) with a friendly doctor in a bright modern clinic, warm light\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "auth/forgot-password.png",
+                       "size":  "1024x1536",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1024x1536 PNG asset for a modern hospital web application. 3D floating padlock with a soft teal glow and small key, on a soft blue gradient background, no text\nPremium polished 3D render, soft studio lighting, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "dashboard/empty-appointments.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A calendar with a friendly doctor character pointing at an empty day\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "dashboard/empty-orders.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. An empty shopping bag with a medical cross and a small plant\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "dashboard/empty-records.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. An empty folder with medical documents floating around\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "dashboard/empty-messages.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. Two empty chat bubbles with a stethoscope\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "dashboard/empty-search.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A magnifying glass looking at a small question mark\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "dashboard/success-order.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A delivery box with a check mark and confetti\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "dashboard/welcome.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A friendly doctor character waving next to a laptop showing charts\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "dashboard/error-404.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A confused cute robot nurse holding a broken map\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "dashboard/upload-rx.png",
+                       "size":  "1024x1024",
+                       "transparent":  true,
+                       "prompt":  "Create one high-quality 1024x1024 PNG asset for a modern hospital web application. A prescription paper with an upload arrow and cloud\nModern flat vector-style raster illustration with soft gradients, rounded friendly shapes, palette of teal #0EA5A4, blue #2563EB, coral #F97316 and soft gray, lots of negative space, minimal details, isolated on a genuinely transparent background, no text, no logos, no watermark. Use only a medical cross pictogram and abstract horizontal lines on the paper. Absolutely no alphabetic characters, no Rx, no R, no X, no signatures. Crisp clean isolated edges.",
+                       "selectedVariant":  3
+                   },
+                   {
+                       "path":  "blog/heart-health.png",
+                       "size":  "1536x1024",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Person jogging in a park at sunrise, healthy and energetic\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+                       "selectedVariant":  1
+                   },
+                   {
+                       "path":  "blog/nutrition.png",
+                       "size":  "1536x1024",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1536x1024 landscape PNG blog cover. Primary subject: a colorful healthy bowl filled with fresh vegetables, photographed directly from above on a warm wooden table. This is food photography, no people or hospital interior. Editorial photography, bright natural daylight, soft diffused light, teal ceramic bowl and clean white linen, realistic fresh food texture, calm and reassuring mood. No text, no logos, no watermark.",
+                       "selectedVariant":  3
+                   },
+                   {
+                       "path":  "blog/mental-health.png",
+                       "size":  "1536x1024",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Woman meditating peacefully near a big window with plants\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "blog/sleep.png",
+                       "size":  "1536x1024",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1536x1024 landscape PNG blog cover. A calm HOME bedroom with soft morning light, an adult person sleeping peacefully in bed beneath a white duvet. Modern minimal bedroom, subtle teal bedding accents and warm wood nightstand. Editorial lifestyle photography, soft diffused natural light, shallow depth of field, 35mm lens, realistic natural skin tones, calm and reassuring mood. No hospital room or medical staff. No text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "blog/child-vaccine.png",
+                       "size":  "1536x1024",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1536x1024 PNG asset for a modern hospital web application. Smiling child getting a band-aid from a nurse after a vaccine\nEditorial photography of a modern premium hospital, bright natural daylight, soft diffused light, clean white and soft teal (#0EA5A4) color palette with subtle warm wood accents, minimalist architecture, shallow depth of field, 35mm lens, calm and reassuring mood, realistic natural skin tones, diverse people, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   },
+                   {
+                       "path":  "blog/diabetes.png",
+                       "size":  "1536x1024",
+                       "transparent":  false,
+                       "prompt":  "Create one high-quality 1536x1024 landscape PNG blog cover. A senior man in his home kitchen looking at glucose trend data on a smartwatch linked to a small continuous glucose sensor visibly attached to his upper arm. The watch displays only a simple abstract trend graph without letters or numbers. Bright cozy home kitchen, white and soft teal accents, warm wood, natural diffused daylight, realistic editorial lifestyle photography, calm reassuring mood. No hospital staff, no needles, no text, no logos, no watermark.",
+                       "selectedVariant":  2
+                   }
+               ],
+    "notes":  [
+                  "Generated two variations per missing asset, plus corrections for upload-rx and nutrition: 64 total outputs, 31 selected files.",
+                  "Original generated PNGs preserved: square cutouts are 1254x1254 rather than the requested 1024x1024; auth panels are 1024x1536 and blog covers 1536x1024.",
+                  "Some transparent cutouts retain light edge fringes, especially dashboard illustrations; inspect using the gallery against the intended UI background.",
+                  "All 136 files present at the initial audit retain their original SHA-256 hashes. Additional chat and insurance assets appeared during this session and were left untouched.",
+                  "All 163 filenames from the supplied main kit, including eight avatars, are now present. Asset delivery only; no app implementation or deployment performed."
+              ]
+}
