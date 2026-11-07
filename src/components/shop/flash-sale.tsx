@@ -84,9 +84,9 @@ export function FlashSale({ products }: { products: Product[] }) {
           </Button>
         </div>
       </div>
-      <ul className="scrollbar-none -mx-5 mt-6 flex snap-x snap-mandatory gap-4 overflow-x-auto px-5 pb-1 sm:-mx-8 sm:px-8">
+      <ul className="scrollbar-none mt-6 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-1">
         {products.map((p) => (
-          <li key={p.id} className="w-[220px] shrink-0 snap-start sm:w-[240px]">
+          <li key={p.id} className="w-[220px] shrink-0 snap-start sm:w-[240px] lg:w-[calc((100%-3rem)/4)] xl:w-[calc((100%-4rem)/5)]">
             <ProductCard product={p} />
           </li>
         ))}
