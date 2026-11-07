@@ -7,7 +7,7 @@ export function ProductRow({ products, grid, className }: { products: Product[];
   return (
     <ul
       className={cn(
-        "scrollbar-none -mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 sm:-mx-6 sm:px-6",
+        "scrollbar-none -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-4 overflow-x-auto px-4 pb-2 sm:-mx-6 sm:scroll-px-6 sm:px-6",
         grid && "lg:mx-0 lg:grid lg:grid-cols-4 lg:overflow-visible lg:px-0",
         className,
       )}
