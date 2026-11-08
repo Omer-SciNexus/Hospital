@@ -17,6 +17,7 @@ export default function DoctorsPage() {
       <PageHero
         image="/images/hero/doctors.png"
         imageAlt="Doctors and nurses standing together in a hospital corridor"
+        imagePosition="50% 15%"
         crumbs={[{ label: "Doctors" }]}
         eyebrow={<Badge variant="glass">340+ specialists</Badge>}
         title="Find your doctor"

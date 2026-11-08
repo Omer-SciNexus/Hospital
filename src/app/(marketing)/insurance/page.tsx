@@ -37,6 +37,7 @@ export default function InsurancePage() {
       <PageHero
         image="/images/hero/insurance.png"
         imageAlt="Billing staff explaining a document to a smiling couple"
+        imagePosition="50% 30%"
         crumbs={[{ label: "Insurance" }]}
         eyebrow={<Badge variant="glass">10 insurance companies</Badge>}
         title="Insurance, made clear"

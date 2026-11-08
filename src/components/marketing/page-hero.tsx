@@ -35,6 +35,7 @@ export function Breadcrumbs({ items, inverted }: { items: Crumb[]; inverted?: bo
 export function PageHero({
   image,
   imageAlt = "",
+  imagePosition,
   eyebrow,
   title,
   description,
@@ -45,6 +46,8 @@ export function PageHero({
 }: {
   image: string;
   imageAlt?: string;
+  /** CSS object-position, to keep faces in frame when the photo is cropped. */
+  imagePosition?: string;
   eyebrow?: React.ReactNode;
   title: React.ReactNode;
   description?: React.ReactNode;
@@ -56,7 +59,7 @@ export function PageHero({
   return (
     <section className="container-page pt-6">
       <div className="relative isolate overflow-hidden rounded-3xl bg-brand-950">
-        <Image src={image} alt={imageAlt} fill priority sizes="(min-width: 1280px) 1216px, 100vw" className="-z-10 object-cover" />
+        <Image src={image} alt={imageAlt} fill priority sizes="(min-width: 1280px) 1216px, 100vw" className="-z-10 object-cover" style={{ objectPosition: imagePosition }} />
         <div
           className={cn(
             "absolute inset-0 -z-10",
@@ -67,7 +70,7 @@ export function PageHero({
                 : "bg-gradient-to-r from-brand-950/95 via-brand-950/75 to-brand-950/10",
           )}
         />
-        <div className={cn("flex", align === "right" && "justify-end")}>
+        <div className={cn("flex items-center lg:min-h-[520px]", align === "right" && "justify-end")}>
           <div className="max-w-2xl px-6 py-14 text-white sm:px-12 sm:py-20">
             <Breadcrumbs items={crumbs} inverted />
             {eyebrow && <div className="mt-6">{eyebrow}</div>}

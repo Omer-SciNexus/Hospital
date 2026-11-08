@@ -43,6 +43,7 @@ export default function AboutPage() {
       <PageHero
         image="/images/about/patient-care.png"
         imageAlt="A nurse caring for a smiling child"
+        imagePosition="50% 13%"
         crumbs={[{ label: "About" }]}
         eyebrow={<Badge variant="glass">Since 1998</Badge>}
         title="A hospital that feels human"

@@ -50,17 +50,17 @@ export default async function DepartmentPage({ params }: Props) {
     <div style={{ ["--dept" as string]: d.accent }}>
       {/* Hero */}
       <section className="container-page pt-6">
-        <div className="grid overflow-hidden rounded-3xl border border-border bg-surface shadow-soft lg:grid-cols-[1.05fr_1fr]">
-          <div className="relative flex flex-col justify-center p-6 sm:p-12">
+        <div className="grid overflow-hidden rounded-3xl border border-border bg-surface shadow-soft xl:grid-cols-[0.95fr_1fr]">
+          <div className="relative flex flex-col justify-center p-6 sm:p-10">
             <span className="pointer-events-none absolute -left-24 -top-24 size-72 rounded-full opacity-20 blur-3xl" style={{ background: d.accent }} />
             <Breadcrumbs items={[{ label: "Departments", href: "/departments" }, { label: d.name }]} />
-            <div className="relative mt-8 flex items-center gap-4">
-              <Image src={departmentIcon(d.slug)} alt="" width={80} height={80} priority className="size-20" />
+            <div className="relative mt-6 flex items-center gap-4">
+              <Image src={departmentIcon(d.slug)} alt="" width={80} height={80} priority className="size-16" />
               <span className="text-dept rounded-full px-3 py-1 text-xs font-bold uppercase tracking-wider" style={{ background: `${d.accent}1f` }}>
                 {group.name}
               </span>
             </div>
-            <h1 className="relative mt-5 text-4xl font-extrabold sm:text-5xl">{d.name}</h1>
+            <h1 className="relative mt-5 text-4xl font-extrabold sm:text-5xl xl:text-[2.75rem]">{d.name}</h1>
             <p className="relative mt-4 max-w-lg text-lg text-muted-foreground">{d.summary}</p>
             <dl className="relative mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm">
               <div className="flex items-center gap-2">
@@ -74,7 +74,7 @@ export default async function DepartmentPage({ params }: Props) {
                 <dd className={d.urgent ? "font-semibold text-red-600 dark:text-red-400" : undefined}>{d.hours}</dd>
               </div>
             </dl>
-            <div className="relative mt-8 flex flex-wrap gap-3">
+            <div className="relative mt-6 flex flex-wrap gap-3">
               {d.slug === "emergency" ? (
                 <Button asChild variant="danger" size="lg">
                   <a href={`tel:${site.emergencyPhone}`}>
@@ -95,13 +95,14 @@ export default async function DepartmentPage({ params }: Props) {
               </Button>
             </div>
           </div>
-          <div className="relative min-h-72 lg:min-h-[520px]">
+          {/* Photos are 3:2. Keep that shape so nobody gets cut off at the edges. */}
+          <div className="relative aspect-[3/2] xl:aspect-auto">
             <Image
               src={departmentImage(d.slug)}
               alt={`Inside the ${d.name} department`}
               fill
               priority
-              sizes="(min-width: 1024px) 50vw, 100vw"
+              sizes="(min-width: 1280px) 640px, 100vw"
               className="object-cover"
             />
           </div>
