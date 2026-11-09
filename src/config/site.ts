@@ -8,6 +8,7 @@ export const site = {
   phone: "+1 (555) 014-2200",
   emergencyPhone: "+1 (555) 014-0911",
   emergencyShort: "911",
+  crisisLine: "988",
   email: "care@aurelia-hospital.example",
   address: {
     line1: "2400 Riverside Avenue",
