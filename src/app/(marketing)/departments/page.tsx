@@ -8,6 +8,7 @@ import { Reveal } from "@/components/ui/reveal";
 import { CtaBand } from "@/components/marketing/cta-band";
 import { DepartmentTile } from "@/components/marketing/department-card";
 import { PageHero } from "@/components/marketing/page-hero";
+import { TriageBanner } from "@/components/triage/triage-banner";
 
 export const metadata: Metadata = {
   title: "Departments",
@@ -52,6 +53,8 @@ export default function DepartmentsPage() {
           </span>
           <span className="font-bold">Call {site.emergencyPhone} →</span>
         </Link>
+
+        <TriageBanner />
 
         {departmentGroups.map((g) => (
           <section key={g.id} id={g.id} className="scroll-mt-36">
