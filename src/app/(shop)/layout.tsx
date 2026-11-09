@@ -5,6 +5,7 @@ import { SiteHeader } from "@/components/layout/site-header";
 import { CartDrawer } from "@/components/shop/cart-drawer";
 import { CategoryNav, CategoryNavList } from "@/components/shop/category-nav";
 import { CompareTray } from "@/components/shop/compare-tray";
+import { TriageLauncher } from "@/components/triage/triage-launcher";
 
 export default function ShopLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -28,6 +29,7 @@ export default function ShopLayout({ children }: { children: React.ReactNode }) 
       <SiteFooter />
       <CartDrawer />
       <CompareTray />
+      <TriageLauncher />
     </>
   );
 }
